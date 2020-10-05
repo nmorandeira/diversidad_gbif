@@ -2,11 +2,17 @@
 ####### Análisis de diversidad a partir de registros de GBIF ##############
 
 ####### Código escrito por Natalia Morandeira, nmorandeira@unsam.edu.ar ####
+###### Colaboradora: Sofía Larrandat, slarrandart@gmail.com 
 ####### Septiembre-Octubre de 2020. Parte del código fue destinado a la asignatura Ecología, ECyT-3iA, Universidad Nacional de San Martín
+
+# En el ejemplo usamos una base de datos de eBird obtenida a través de. El dataset de este ejercicio fue descargado por Sofía Larrandat y tiene una licencia CC 1.0: https://www.gbif.org/occurrence/download/0074472-200613084148143
+# Cita del dataset: GBIF.org (03 October 2020) GBIF Occurrence Download https://doi.org/10.15468/dl.474hgg
+
 
 #### PRIMERA PARTE - Pre-procesamiento de la base de datos descargada de Gbif ##########
 
-### Primero, cargamos los datos tal cual los bajamos de gbif. Lo podemos hacer en RStudio desde "Import Dataset", indicando que el separador es tabulador, o lo podemos hacer así:
+### Primero, cargamos los datos tal cual los bajamos de gbif. 
+# Lo podemos hacer en RStudio desde "Import Dataset", indicando que el separador es tabulador, o lo podemos hacer así:
 
 library(readr) #nombre de la libreria necesaria
 aves_ceibas <- read_delim("data/dataset_ceibas.csv", "\t", escape_double = FALSE, trim_ws = TRUE)
