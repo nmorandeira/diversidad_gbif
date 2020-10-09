@@ -2,7 +2,7 @@
 ####### Análisis de diversidad a partir de registros de GBIF ##############
 
 ####### Código escrito por Natalia Morandeira, nmorandeira@unsam.edu.ar ####
-###### Colaboradora: Sofía Larrandat, slarrandart@gmail.com 
+###### Colaboradora: Sofía Larrandart, slarrandart@gmail.com 
 ####### Septiembre-Octubre de 2020. Parte del código fue destinado a la asignatura Ecología, ECyT-3iA, Universidad Nacional de San Martín
 
 # En el ejemplo usamos una base de datos de eBird obtenida a través de. El dataset de este ejercicio fue descargado por Sofía Larrandat y tiene una licencia CC 1.0: https://www.gbif.org/occurrence/download/0074472-200613084148143
