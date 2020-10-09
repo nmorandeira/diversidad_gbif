@@ -6,7 +6,7 @@ Análisis de diversidad a partir de una base de datos de GBIF (registros georref
 
 **Colaboradora:** Sofía Larrandat, slarrandart@gmail.com 
 
-_Septiembre-Octubre de 2020. Parte del código fue destinado a la asignatura Ecología, ECyT-3iA, Universidad Nacional de San Martín_
+_Septiembre-Octubre de 2020. Parte del código fue elaborado para la asignatura Ecología, ECyT-3iA, Universidad Nacional de San Martín_
 
 Este repositorio consta de:
 
