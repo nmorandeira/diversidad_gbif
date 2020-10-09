@@ -2,7 +2,7 @@
 
 Análisis de diversidad a partir de una base de datos de GBIF (registros georreferenciados de observaciones de ocurrencia y abundancia de especies). Se provee un ejemplo con registros de aves de Ceibas (Entre Ríos, Argentina).
 
-**Autora:** Natalia Morandeira, nmorandeira@unsam.edu.ar ####
+**Autora:** Natalia Morandeira, nmorandeira@unsam.edu.ar
 
 **Colaboradora:** Sofía Larrandat, slarrandart@gmail.com 
 
