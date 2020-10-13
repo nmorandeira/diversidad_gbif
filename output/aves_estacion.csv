@@ -1,276 +1,278 @@
-"","Especie","Primavera","Verano","Otonio","Invierno","Codigo"
-"1","Accipiter striatus",1,NA,3,NA,"ACC-STR"
-"2","Actitis macularius",1,NA,NA,NA,"ACT-MAC"
-"3","Agelaioides badius",291,218,344,202,"AGE-BAD"
-"4","Agelasticus cyanopus",35,15,35,37,"AGE-CYA"
-"5","Agelasticus thilius",155,194,150,50,"AGE-THI"
-"6","Alopochelidon fucata",2,NA,NA,NA,"ALO-FUC"
-"7","Amazonetta brasiliensis",247,149,187,99,"AMA-BRA"
-"8","Amblyramphus holosericeus",51,34,61,30,"AMB-HOL"
-"9","Ammodramus humeralis",9,3,NA,2,"AMM-HUM"
-"10","Anabacerthia striaticollis",74,37,89,41,"ANA-STR"
-"11","Anas bahamensis",5,2,4,1,"ANA-BAH"
-"12","Anas cyanoptera",1,NA,NA,1,"ANA-CYA"
-"13","Anas flavirostris",167,67,166,167,"ANA-FLA"
-"14","Anas georgica",25,7,28,17,"ANA-GEO"
-"15","Anas sibilatrix",11,1,NA,3,"ANA-SIB"
-"16","Anhinga anhinga",61,26,5,7,"ANH-ANH"
-"17","Anthus correndera",17,1,1,3,"ANT-COR"
-"18","Anthus furcatus",2,NA,NA,NA,"ANT-FUR"
-"19","Anthus hellmayri",1,2,NA,NA,"ANT-HEL"
-"20","Anthus lutescens",29,19,8,2,"ANT-LUT"
-"21","Anumbius annumbi",35,39,40,20,"ANU-ANN"
-"22","Aramides cajanea",2,1,4,8,"ARA-CAJ"
-"23","Aramides ypecaha",184,150,218,115,"ARA-YPE"
-"24","Aramus guarauna",195,119,219,169,"ARA-GUA"
-"25","Ardea alba",231,235,164,79,"ARD-ALB"
-"26","Ardea cocoi",147,88,132,82,"ARD-COC"
-"27","Asio flammeus",1,NA,NA,2,"ASI-FLA"
-"28","Asthenes baeri",53,39,80,30,"AST-BAE"
-"29","Asthenes pyrrholeuca",1,NA,1,1,"AST-PYR"
-"30","Athene cunicularia",12,17,8,10,"ATH-CUN"
-"31","Bartramia longicauda",1,1,NA,1,"BAR-LON"
-"32","Basileuterus culicivorus",1,2,3,NA,"BAS-CUL"
-"33","Bubo virginianus",18,1,4,9,"BUB-VIR"
-"34","Bubulcus ibis",347,663,167,3,"BUB-IBI"
-"35","Busarellus nigricollis",NA,NA,NA,2,"BUS-NIG"
-"36","Buteo albicaudatus",2,2,7,NA,"BUT-ALB"
-"37","Buteo swainsoni",1,1,NA,NA,"BUT-SWA"
-"38","Buteogallus meridionalis",91,89,131,63,"BUT-MER"
-"39","Butorides striata",91,31,9,1,"BUT-STR"
-"40","Cacicus solitarius",12,4,4,10,"CAC-SOL"
-"41","Calidris bairdii",12,3,NA,NA,"CAL-BAI"
-"42","Calidris fuscicollis",5,2,NA,1,"CAL-FUS"
-"43","Calidris melanotos",99,265,7,28,"CAL-MEL"
-"44","Callonetta leucophrys",296,139,427,147,"CAL-LEU"
-"45","Campephilus leucopogon",1,NA,NA,NA,"CAM-LEU"
-"46","Camptostoma obsoletum",6,4,9,3,"CAM-OBS"
-"47","Caprimulgus longirostris",NA,NA,2,2,"CAP-LON"
-"48","Caprimulgus parvulus",5,1,NA,NA,"CAP-PAR"
-"49","Caracara plancus",308,342,396,214,"CAR-PLA"
-"50","Cathartes aura",2,1,NA,NA,"CAT-AUR"
-"51","Certhiaxis cinnamomeus",78,66,121,42,"CER-CIN"
-"52","Charadrius collaris",2,5,1,2,"CHA-COL"
-"53","Charadrius modestus",NA,NA,1,1,"CHA-MOD"
-"54","Chauna torquata",1139,1809,1622,589,"CHA-TOR"
-"55","Chloroceryle amazona",5,6,4,7,"CHL-AMA"
-"56","Chloroceryle americana",26,13,15,19,"CHL-AME"
-"57","Chlorostilbon lucidus",54,43,1,9,"CHL-LUC"
-"58","Chroicocephalus cirrocephalus",2,2,1,2,"CHR-CIR"
-"59","Chroicocephalus maculipennis",130,8,25,40,"CHR-MAC"
-"60","Chrysomus ruficapillus",1082,391,278,441,"CHR-RUF"
-"61","Ciconia maguari",281,263,344,137,"CIC-MAG"
-"62","Circus buffoni",63,38,41,39,"CIR-BUF"
-"63","Circus cinereus",3,1,NA,NA,"CIR-CIN"
-"64","Coccycua cinerea",26,14,3,NA,"COC-CIN"
-"65","Coccyzus melacoryphus",24,14,NA,NA,"COC-MEL"
-"66","Colaptes campestris",30,9,26,11,"COL-CAM"
-"67","Colaptes melanochloros",87,76,65,39,"COL-MEL"
-"68","Columba livia",48,17,26,54,"COL-LIV"
-"69","Columbina picui",133,315,193,56,"COL-PIC"
-"70","Columbina talpacoti",NA,NA,2,2,"COL-TAL"
-"71","Coragyps atratus",10,9,7,7,"COR-ATR"
-"72","Coryphistera alaudina",18,21,44,13,"COR-ALA"
-"73","Coryphospingus cucullatus",NA,1,5,1,"COR-CUC"
-"74","Coscoroba coscoroba",168,64,218,74,"COS-COS"
-"75","Cranioleuca pyrrhophia",58,59,58,39,"CRA-PYR"
-"76","Cyanoloxia brissonii",2,2,4,NA,"CYA-BRI"
-"77","Cyanoloxia glaucocaerulea",1,3,NA,NA,"CYA-GLA"
-"78","Cyclarhis gujanensis",35,14,21,17,"CYC-GUJ"
-"79","Cygnus melancoryphus",71,8,146,59,"CYG-MEL"
-"80","Dendrocygna autumnalis",47,45,15,5,"DEN-AUT"
-"81","Dendrocygna bicolor",1123,283,28,316,"DEN-BIC"
-"82","Dendrocygna viduata",455,192,99,293,"DEN-VID"
-"83","Donacospiza albifrons",5,4,3,2,"DON-ALB"
-"84","Drymornis bridgesii",40,31,35,19,"DRY-BRI"
-"85","Egretta thula",171,143,126,27,"EGR-THU"
-"86","Elaenia albiceps",NA,NA,1,NA,"ELA-ALB"
-"87","Elaenia parvirostris",53,12,8,1,"ELA-PAR"
-"88","Elanus leucurus",4,6,NA,5,"ELA-LEU"
-"89","Embernagra platensis",72,55,88,39,"EMB-PLA"
-"90","Empidonomus aurantioatrocristatus",53,67,1,1,"EMP-AUR"
-"91","Euscarthmus meloryphus",16,4,NA,NA,"EUS-MEL"
-"92","Falco femoralis",NA,2,2,NA,"FAL-FEM"
-"93","Falco peregrinus",NA,1,NA,NA,"FAL-PER"
-"94","Falco sparverius",8,19,18,11,"FAL-SPA"
-"95","Fluvicola pica",103,26,5,3,"FLU-PIC"
-"96","Fulica armillata",46,7,57,7,"FUL-ARM"
-"97","Fulica leucoptera",78,4,21,19,"FUL-LEU"
-"98","Fulica rufifrons",27,13,45,54,"FUL-RUF"
-"99","Furnarius rufus",575,661,545,204,"FUR-RUF"
-"100","Gallinago paraguaiae",72,65,51,31,"GAL-PAR"
-"101","Gallinula chloropus",263,98,419,115,"GAL-CHL"
-"102","Gallinula melanops",139,23,60,77,"GAL-MEL"
-"103","Geothlypis aequinoctialis",58,36,6,7,"GEO-AEQ"
-"104","Glaucidium brasilianum",12,3,8,4,"GLA-BRA"
-"105","Gnorimopsar chopi",2,6,NA,NA,"GNO-CHO"
-"106","Guira guira",225,173,232,83,"GUI-GUI"
-"107","Heliomaster furcifer",3,1,NA,NA,"HEL-FUR"
-"108","Hemitriccus margaritaceiventer",NA,1,NA,1,"HEM-MAR"
-"109","Heteronetta atricapilla",9,NA,76,1,"HET-ATR"
-"110","Himantopus mexicanus",208,140,265,110,"HIM-MEX"
-"111","Hirundo rustica",165,46,5,2,"HIR-RUS"
-"112","Hydropsalis torquata",15,2,9,5,"HYD-TOR"
-"113","Hylocharis chrysura",23,24,20,6,"HYL-CHR"
-"114","Hymenops perspicillatus",138,96,225,105,"HYM-PER"
-"115","Icterus pyrrhopterus",27,20,77,23,"ICT-PYR"
-"116","Ixobrychus involucris",NA,2,1,2,"IXO-INV"
-"117","Jacana jacana",372,369,409,160,"JAC-JAC"
-"118","Knipolegus cyanirostris",3,NA,NA,1,"KNI-CYA"
-"119","Larus dominicanus",NA,1,11,3,"LAR-DOM"
-"120","Laterallus melanophaius",16,9,7,3,"LAT-MEL"
-"121","Lathrotriccus euleri",1,2,NA,1,"LAT-EUL"
-"122","Leistes superciliaris",28,15,6,1,"LEI-SUP"
-"123","Lepidocolaptes angustirostris",108,83,92,56,"LEP-ANG"
-"124","Leptasthenura platensis",56,35,76,41,"LEP-PLA"
-"125","Leptotila verreauxi",53,36,30,41,"LEP-VER"
-"126","Lessonia rufa",NA,3,69,26,"LES-RUF"
-"127","Leucochloris albicollis",NA,1,NA,1,"LEU-ALB"
-"128","Limnoctites rectirostris",6,NA,2,5,"LIM-REC"
-"129","Limnornis curvirostris",35,13,32,11,"LIM-CUR"
-"130","Machetornis rixosa",86,82,122,58,"MAC-RIX"
-"131","Megaceryle torquata",19,15,12,7,"MEG-TOR"
-"132","Megascops choliba",4,NA,NA,1,"MEG-CHO"
-"133","Melanerpes cactorum",139,90,89,47,"MEL-CAC"
-"134","Melanerpes candidus",50,38,43,15,"MEL-CAN"
-"135","Microspingus cabanisi",1,NA,1,1,"MIC-CAB"
-"136","Microspingus melanoleucus",77,55,85,44,"MIC-MEL"
-"137","Milvago chimachima",1,11,3,NA,"MIL-CHI"
-"138","Milvago chimango",127,81,104,47,"MIL-CHI"
-"139","Mimus patagonicus",NA,NA,1,NA,"MIM-PAT"
-"140","Mimus saturninus",186,135,202,115,"MIM-SAT"
-"141","Mimus triurus",6,8,56,22,"MIM-TRI"
-"142","Molothrus bonariensis",426,416,673,352,"MOL-BON"
-"143","Molothrus rufoaxillaris",102,76,32,31,"MOL-RUF"
-"144","Muscisaxicola maclovianus",NA,NA,NA,1,"MUS-MAC"
-"145","Mycteria americana",134,233,93,5,"MYC-AME"
-"146","Myiarchus ferox",NA,1,NA,NA,"MYI-FER"
-"147","Myiarchus swainsoni",16,10,NA,NA,"MYI-SWA"
-"148","Myiodynastes maculatus",11,10,NA,NA,"MYI-MAC"
-"149","Myiophobus fasciatus",19,10,1,3,"MYI-FAS"
-"150","Myiopsitta monachus",1915,1933,2661,853,"MYI-MON"
-"151","Neoxolmis rufiventris",NA,NA,1,NA,"NEO-RUF"
-"152","Netta peposaca",439,95,158,147,"NET-PEP"
-"153","Nomonyx dominicus",49,2,10,2,"NOM-DOM"
-"154","Nothura maculosa",26,6,16,15,"NOT-MAC"
-"155","Notiochelidon cyanoleuca",44,16,113,13,"NOT-CYA"
-"156","Nycticorax nycticorax",108,54,22,10,"NYC-NYC"
-"157","Nycticryphes semicollaris",7,1,NA,2,"NYC-SEM"
-"158","Pachyramphus polychopterus",10,8,1,NA,"PAC-POL"
-"159","Pandion haliaetus",1,NA,NA,NA,"PAN-HAL"
-"160","Parabuteo unicinctus",7,25,2,7,"PAR-UNI"
-"161","Pardirallus maculatus",28,1,4,NA,"PAR-MAC"
-"162","Pardirallus sanguinolentus",72,34,48,26,"PAR-SAN"
-"163","Paroaria capitata",25,13,35,20,"PAR-CAP"
-"164","Paroaria coronata",288,273,394,275,"PAR-COR"
-"165","Passer domesticus",139,144,142,89,"PAS-DOM"
-"166","Patagioenas maculosa",169,99,113,68,"PAT-MAC"
-"167","Patagioenas picazuro",113,278,147,64,"PAT-PIC"
-"168","Petrochelidon pyrrhonota",1087,3,NA,NA,"PET-PYR"
-"169","Phacellodomus ruber",1,NA,NA,NA,"PHA-RUB"
-"170","Phacellodomus sibilatrix",64,38,49,27,"PHA-SIB"
-"171","Phaetusa simplex",1,4,1,NA,"PHA-SIM"
-"172","Phalacrocorax brasilianus",244,198,141,90,"PHA-BRA"
-"173","Phalaropus tricolor",9,1,NA,NA,"PHA-TRI"
-"174","Phimosus infuscatus",991,583,483,220,"PHI-INF"
-"175","Phleocryptes melanops",75,24,41,36,"PHL-MEL"
-"176","Phoenicopterus chilensis",NA,NA,30,NA,"PHO-CHI"
-"177","Phylloscartes ventralis",NA,NA,1,1,"PHY-VEN"
-"178","Phytotoma rutila",32,27,91,57,"PHY-RUT"
-"179","Picumnus cirratus",2,6,1,3,"PIC-CIR"
-"180","Pipraeidea bonariensis",36,17,21,11,"PIP-BON"
-"181","Pipraeidea melanonota",NA,NA,1,NA,"PIP-MEL"
-"182","Piranga flava",1,6,8,9,"PIR-FLA"
-"183","Pitangus sulphuratus",291,296,340,177,"PIT-SUL"
-"184","Platalea ajaja",188,117,68,32,"PLA-AJA"
-"185","Plegadis chihi",1914,2068,1027,667,"PLE-CHI"
-"186","Pluvialis dominica",4,15,NA,NA,"PLU-DOM"
-"187","Podager nacunda",63,34,1,21,"POD-NAC"
-"188","Podiceps major",9,8,14,7,"POD-MAJ"
-"189","Podilymbus podiceps",35,11,25,15,"POD-POD"
-"190","Polioptila dumicola",105,173,168,88,"POL-DUM"
-"191","Polystictus pectoralis",2,2,1,NA,"POL-PEC"
-"192","Porphyrio martinica",11,3,1,NA,"POR-MAR"
-"193","Progne chalybea",85,30,NA,19,"PRO-CHA"
-"194","Progne elegans",7,NA,NA,NA,"PRO-ELE"
-"195","Progne tapera",523,886,160,30,"PRO-TAP"
-"196","Pseudocolopteryx flaviventris",34,19,22,9,"PSE-FLA"
-"197","Pseudocolopteryx sclateri",1,NA,NA,NA,"PSE-SCL"
-"198","Pseudoleistes virescens",242,230,224,137,"PSE-VIR"
-"199","Pseudoseisura lophotes",86,79,143,55,"PSE-LOP"
-"200","Pyrocephalus rubinus",172,119,77,37,"PYR-RUB"
-"201","Rhea americana",20,15,1,2,"RHE-AME"
-"202","Rhynchotus rufescens",4,NA,NA,2,"RHY-RUF"
-"203","Riparia riparia",8,24,1,NA,"RIP-RIP"
-"204","Rollandia rolland",37,4,83,13,"ROL-ROL"
-"205","Rostrhamus sociabilis",487,256,71,87,"ROS-SOC"
-"206","Rupornis magnirostris",52,50,106,61,"RUP-MAG"
-"207","Rynchops niger",1,NA,NA,NA,"RYN-NIG"
-"208","Saltator aurantiirostris",75,56,55,36,"SAL-AUR"
-"209","Saltator coerulescens",38,19,38,25,"SAL-COE"
-"210","Saltator similis",1,3,8,3,"SAL-SIM"
-"211","Saltatricula multicolor",3,2,NA,NA,"SAL-MUL"
-"212","Sarkidiornis melanotos",NA,1,NA,NA,"SAR-MEL"
-"213","Satrapa icterophrys",46,20,17,21,"SAT-ICT"
-"214","Schoeniophylax phryganophilus",134,120,104,52,"SCH-PHR"
-"215","Serpophaga griseicapilla",12,2,23,7,"SER-GRI"
-"216","Serpophaga nigricans",53,31,39,36,"SER-NIG"
-"217","Serpophaga subcristata",43,48,84,31,"SER-SUB"
-"218","Setophaga pitiayumi",5,NA,15,12,"SET-PIT"
-"219","Sicalis flaveola",276,318,115,71,"SIC-FLA"
-"220","Sicalis luteola",333,31,25,21,"SIC-LUT"
-"221","Spartonoica maluroides",1,NA,1,1,"SPA-MAL"
-"222","Spatula platalea",4,1,8,11,"SPA-PLA"
-"223","Spatula versicolor",123,55,123,76,"SPA-VER"
-"224","Spinus magellanicus",166,110,122,92,"SPI-MAG"
-"225","Spizaetus melanoleucus",NA,NA,3,NA,"SPI-MEL"
-"226","Sporophila caerulescens",92,117,35,3,"SPO-CAE"
-"227","Sporophila cinnamomea",1,3,NA,NA,"SPO-CIN"
-"228","Sporophila collaris",10,4,6,15,"SPO-COL"
-"229","Sporophila hypoxantha",2,1,NA,NA,"SPO-HYP"
-"230","Sporophila nigrorufa",80,46,71,33,"SPO-NIG"
-"231","Sporophila palustris",NA,7,NA,NA,"SPO-PAL"
-"232","Sporophila ruficollis",3,1,NA,NA,"SPO-RUF"
-"233","Stelgidopteryx ruficollis",37,NA,NA,NA,"STE-RUF"
-"234","Stephanophorus diadematus",2,1,NA,1,"STE-DIA"
-"235","Sterna trudeaui",2,2,NA,2,"STE-TRU"
-"236","Sternula superciliaris",NA,1,1,1,"STE-SUP"
-"237","Sturnus vulgaris",33,39,22,7,"STU-VUL"
-"238","Sublegatus modestus",15,1,2,3,"SUB-MOD"
-"239","Suiriri suiriri",45,50,38,27,"SUI-SUI"
-"240","Synallaxis albescens",33,18,5,5,"SYN-ALB"
-"241","Synallaxis frontalis",46,37,36,23,"SYN-FRO"
-"242","Synallaxis spixi",6,2,3,NA,"SYN-SPI"
-"243","Syrigma sibilatrix",50,34,53,35,"SYR-SIB"
-"244","Tachuris rubrigastra",13,6,22,13,"TAC-RUB"
-"245","Tachybaptus dominicus",NA,1,NA,NA,"TAC-DOM"
-"246","Tachycineta leucopyga",1,2,153,30,"TAC-LEU"
-"247","Tachycineta leucorrhoa",334,238,261,43,"TAC-LEU"
-"248","Tapera naevia",20,10,NA,1,"TAP-NAE"
-"249","Taraba major",6,1,2,1,"TAR-MAJ"
-"250","Tarphonomus certhioides",NA,3,NA,NA,"TAR-CER"
-"251","Thamnophilus caerulescens",1,4,1,NA,"THA-CAE"
-"252","Thamnophilus ruficapillus",16,8,10,7,"THA-RUF"
-"253","Theristicus caerulescens",6,14,13,2,"THE-CAE"
-"254","Thraupis sayaca",56,47,48,13,"THR-SAY"
-"255","Tigrisoma lineatum",66,37,50,37,"TIG-LIN"
-"256","Tringa flavipes",205,49,2,37,"TRI-FLA"
-"257","Tringa melanoleuca",17,46,3,4,"TRI-MEL"
-"258","Tringa solitaria",21,9,NA,1,"TRI-SOL"
-"259","Troglodytes aedon",170,72,127,101,"TRO-AED"
-"260","Tryngites subruficollis",1,1,NA,NA,"TRY-SUB"
-"261","Turdus amaurochalinus",38,47,46,36,"TUR-AMA"
-"262","Turdus rufiventris",68,37,77,39,"TUR-RUF"
-"263","Tyrannus melancholicus",88,148,12,NA,"TYR-MEL"
-"264","Tyrannus savana",200,169,NA,6,"TYR-SAV"
-"265","Tyto alba",NA,NA,NA,1,"TYT-ALB"
-"266","Vanellus chilensis",474,462,734,212,"VAN-CHI"
-"267","Vireo chivi",1,2,NA,NA,"VIR-CHI"
-"268","Volatinia jacarina",4,2,NA,NA,"VOL-JAC"
-"269","Xenopsaris albinucha",48,36,9,1,"XEN-ALB"
-"270","Xiphorhynchus fuscus",NA,1,20,23,"XIP-FUS"
-"271","Xolmis cinereus",5,2,4,5,"XOL-CIN"
-"272","Xolmis coronatus",NA,NA,30,7,"XOL-COR"
-"273","Xolmis irupero",100,85,162,77,"XOL-IRU"
-"274","Zenaida auriculata",552,501,217,184,"ZEN-AUR"
-"275","Zonotrichia capensis",321,266,342,161,"ZON-CAP"
+"","Especie","Codigo","nombrecomun","Primavera","Verano","Otonio","Invierno"
+"1","Accipiter striatus","ACC-STR","Esparvero Estriado",2,NA,3,NA
+"2","Actitis macularius","ACT-MAC","Playerito Manchado",1,NA,NA,NA
+"3","Agelaioides badius","AGE-BAD","Tordo Músico",296,218,346,212
+"4","Agelasticus cyanopus","AGE-CYA","Varillero Negro",35,15,37,38
+"5","Agelasticus thilius","AGE-THI","Varillero Ala Amarilla",158,195,153,53
+"6","Alopochelidon fucata","ALO-FUC","Golondrina Cabeza Rojiza",2,NA,NA,NA
+"7","Amazonetta brasiliensis","AMA-BRA","Pato Cutirí",251,150,191,103
+"8","Amblyramphus holosericeus","AMB-HOL","Federal",54,34,63,34
+"9","Ammodramus humeralis","AMM-HUM","Cachilo Ceja Amarilla",11,3,NA,2
+"10","Anabacerthia striaticollis","ANA-STR","Espinero Pecho Manchado",79,38,91,45
+"11","Anas bahamensis","ANA-BAH","Pato Gargantilla",5,2,4,1
+"12","Anas cyanoptera","ANA-CYA","Pato Colorado",1,NA,NA,1
+"13","Anas flavirostris","ANA-FLA","Pato Barcino",170,67,168,177
+"14","Anas georgica","ANA-GEO","Pato Maicero",26,7,29,21
+"15","Anas sibilatrix","ANA-SIB","Pato Overo",11,1,NA,3
+"16","Anhinga anhinga","ANH-ANH","Aninga",65,26,7,8
+"17","Anthus correndera","ANT-COR","Cachirla Común",20,2,1,8
+"18","Anthus furcatus","ANT-FUR","Cachirla Uña Corta",4,NA,NA,NA
+"19","Anthus hellmayri","ANT-HEL","Cachirla Pálida",1,2,NA,NA
+"20","Anthus lutescens","ANT-LUT","Cachirla Chica",31,19,8,3
+"21","Anumbius annumbi","ANU-ANN","Leñatero",40,39,41,26
+"22","Aramides cajanea","ARA-CAJ","Chiricote",2,1,4,9
+"23","Aramides ypecaha","ARA-YPE","Ipacaá",187,151,220,121
+"24","Aramus guarauna","ARA-GUA","Carau",200,119,221,177
+"25","Ardea alba","ARD-ALB","Garza Blanca",236,235,169,88
+"26","Ardea cocoi","ARD-COC","Garza Mora",153,88,136,90
+"27","Asio flammeus","ASI-FLA","Lechuzón Campestre",1,NA,NA,2
+"28","Asthenes baeri","AST-BAE","Canastero Chaqueño",58,39,84,38
+"29","Asthenes pyrrholeuca","AST-PYR","Canastero Coludo",1,NA,1,1
+"30","Athene cunicularia","ATH-CUN","Lechucita Vizcachera",16,18,8,13
+"31","Bartramia longicauda","BAR-LON","Batitú",1,1,NA,1
+"32","Basileuterus culicivorus","BAS-CUL","Arañero coronado chico",1,2,3,NA
+"33","Bubo virginianus","BUB-VIR","Ñacurutú",19,1,4,9
+"34","Bubulcus ibis","BUB-IBI","Garcita Bueyera",349,663,169,9
+"35","Busarellus nigricollis","BUS-NIG","Aguilucho Pampa",NA,NA,NA,2
+"36","Buteo albicaudatus","BUT-ALB","Aguilucho Langostero",2,2,7,NA
+"37","Buteo swainsoni","BUT-SWA","Aguilucho Langostero",1,1,NA,NA
+"38","Buteogallus meridionalis","BUT-MER","Aguilucho Colorado",95,90,135,70
+"39","Butorides striata","BUT-STR","Garcita Azulada",93,31,10,1
+"40","Cacicus solitarius","CAC-SOL","Boyero Negro",13,4,4,11
+"41","Calidris bairdii","CAL-BAI","Playerito Unicolor",12,3,NA,NA
+"42","Calidris fuscicollis","CAL-FUS","Playerito Rabadilla Blanca",6,2,NA,1
+"43","Calidris melanotos","CAL-MEL","Playerito Pectoral",102,265,7,28
+"44","Callonetta leucophrys","CAL-LEU","Pato de Collar",301,139,430,153
+"45","Campephilus leucopogon","CAM-LEU","Carpintero Lomo Blanco",1,NA,NA,NA
+"46","Camptostoma obsoletum","CAM-OBS","Piojito Silbón",7,4,11,5
+"47","Caprimulgus longirostris","CAP-LON","Atajacaminos Ñañarca",NA,NA,2,4
+"48","Caprimulgus parvulus","CAP-PAR","Atajacaminos Chico",5,1,NA,1
+"49","Caracara plancus","CAR-PLA","Carancho",313,343,398,224
+"50","Cathartes aura","CAT-AUR","Jote Cabeza Colorada",2,1,1,1
+"51","Certhiaxis cinnamomeus","CER-CIN","Curutié Colorado",82,67,125,48
+"52","Charadrius collaris","CHA-COL","Chorlito de Collar",2,5,1,4
+"53","Charadrius modestus","CHA-MOD","Chorlito Pecho Canela",NA,NA,1,1
+"54","Chauna torquata","CHA-TOR","Chajá",1145,1810,1625,594
+"55","Chloroceryle amazona","CHL-AMA","Martín Pescador Mediano",5,6,5,9
+"56","Chloroceryle americana","CHL-AME","Martín Pescador Chico",26,13,15,19
+"57","Chlorostilbon lucidus","CHL-LUC","Picaflor Verde",57,43,2,10
+"58","Chroicocephalus cirrocephalus","CHR-CIR","Gaviota capucho gris",2,2,1,2
+"59","Chroicocephalus maculipennis","CHR-MAC","Gaviota capucho café",132,8,25,45
+"60","Chrysomus ruficapillus","CHR-RUF","Varillero Congo",1087,391,278,445
+"61","Ciconia maguari","CIC-MAG","Cigüeña Americana",301,263,347,146
+"62","Circus buffoni","CIR-BUF","Gavilán Planeador",67,38,43,46
+"63","Circus cinereus","CIR-CIN","Gavilán Ceniciento",3,1,NA,NA
+"64","Coccycua cinerea","COC-CIN","Cuclillo Chico",27,14,3,NA
+"65","Coccyzus melacoryphus","COC-MEL","Cuclillo Canela",25,14,NA,NA
+"66","Colaptes campestris","COL-CAM","Carpintero Barba Negra",32,9,28,15
+"67","Colaptes melanochloros","COL-MEL","Carpintero Real Verde",93,77,68,45
+"68","Columba livia","COL-LIV","Paloma Doméstica",51,17,31,60
+"69","Columbina picui","COL-PIC","Torcacita Picuí",136,316,198,62
+"70","Columbina talpacoti","COL-TAL","Torcacita Colorada",NA,NA,2,2
+"71","Coragyps atratus","COR-ATR","Jote Cabeza Negra",11,9,10,9
+"72","Coryphistera alaudina","COR-ALA","Crestudo",18,21,44,14
+"73","Coryphospingus cucullatus","COR-CUC","Brasita de fuego",NA,1,5,1
+"74","Coscoroba coscoroba","COS-COS","Coscoroba",168,64,218,74
+"75","Cranioleuca pyrrhophia","CRA-PYR","Curutié Blanco",60,60,60,44
+"76","Cyanoloxia brissonii","CYA-BRI","Reinamora Grande",2,2,4,NA
+"77","Cyanoloxia glaucocaerulea","CYA-GLA","Reinamora chica",1,3,NA,NA
+"78","Cyclarhis gujanensis","CYC-GUJ","Juan Chiviro",37,15,22,18
+"79","Cygnus melancoryphus","CYG-MEL","Cisne Cuello Negro",72,8,148,59
+"80","Dendrocygna autumnalis","DEN-AUT","Sirirí Vientre Negro",47,45,15,5
+"81","Dendrocygna bicolor","DEN-BIC","Sirirí Colorado",1125,283,28,316
+"82","Dendrocygna viduata","DEN-VID","Sirirí Pampa",458,192,99,300
+"83","Donacospiza albifrons","DON-ALB","Cachilo canela",6,4,3,5
+"84","Drymornis bridgesii","DRY-BRI","Chinchero Grande",41,31,36,24
+"85","Egretta thula","EGR-THU","Garcita Blanca",175,143,128,31
+"86","Elaenia albiceps","ELA-ALB","Fiofío Silbón",NA,NA,1,NA
+"87","Elaenia parvirostris","ELA-PAR","Fiofío Pico Corto",55,13,8,2
+"88","Elanus leucurus","ELA-LEU","Milano Blanco",6,6,NA,7
+"89","Embernagra platensis","EMB-PLA","Verdón",77,56,89,44
+"90","Empidonomus aurantioatrocristatus","EMP-AUR","Tuquito gris",58,68,1,1
+"91","Euscarthmus meloryphus","EUS-MEL","Barullero",16,4,NA,NA
+"92","Falco femoralis","FAL-FEM","Halcón Plomizo",NA,2,2,NA
+"93","Falco peregrinus","FAL-PER","Halcón Peregrino",NA,1,NA,NA
+"94","Falco sparverius","FAL-SPA","Halconcito Colorado",10,19,19,13
+"95","Fluvicola pica","FLU-PIC","Viudita Lomo Negro",108,26,5,5
+"96","Fulica armillata","FUL-ARM","Gallareta Ligas Rojas",46,7,58,9
+"97","Fulica leucoptera","FUL-LEU","Gallareta Chica",78,4,23,21
+"98","Fulica rufifrons","FUL-RUF","Gallareta Escudete Rojo",27,13,46,54
+"99","Furnarius rufus","FUR-RUF","Hornero",581,662,549,215
+"100","Gallinago paraguaiae","GAL-PAR","Becasina de Bañado",76,65,53,38
+"101","Gallinula chloropus","GAL-CHL","Pollona Negra",267,98,421,124
+"102","Gallinula melanops","GAL-MEL","Pollona Pintada",140,23,61,85
+"103","Geothlypis aequinoctialis","GEO-AEQ","Arañero cara negra",61,36,6,8
+"104","Geranospiza caerulescens","GER-CAE","Gavilán Patas Largas",NA,NA,NA,1
+"105","Glaucidium brasilianum","GLA-BRA","Caburé Chico",12,3,8,4
+"106","Gnorimopsar chopi","GNO-CHO","Chopí",2,6,NA,NA
+"107","Guira guira","GUI-GUI","Pirincho",230,174,234,91
+"108","Heliomaster furcifer","HEL-FUR","Picaflor de Barbijo",3,1,NA,NA
+"109","Hemitriccus margaritaceiventer","HEM-MAR","Mosqueta Ojo Dorado",NA,1,NA,1
+"110","Heteronetta atricapilla","HET-ATR","Pato Cabeza Negra",9,NA,76,1
+"111","Himantopus mexicanus","HIM-MEX","Tero real",212,140,266,119
+"112","Hirundo rustica","HIR-RUS","Golondrina Tijerita",168,47,5,3
+"113","Hydropsalis torquata","HYD-TOR","Atajacaminos Tijera",15,2,9,5
+"114","Hylocharis chrysura","HYL-CHR","Picaflor Bronceado",25,25,21,6
+"115","Hymenops perspicillatus","HYM-PER","Pico de Plata",144,97,229,113
+"116","Icterus pyrrhopterus","ICT-PYR","Boyerito",28,20,77,26
+"117","Ixobrychus involucris","IXO-INV","Mirasol Estriado",NA,2,1,2
+"118","Jacana jacana","JAC-JAC","Jacana",378,369,412,171
+"119","Knipolegus cyanirostris","KNI-CYA","Viudita Pico Celeste",3,NA,NA,1
+"120","Larus dominicanus","LAR-DOM","Gaviota Cocinera",NA,1,11,13
+"121","Laterallus melanophaius","LAT-MEL","Burrito Canela",16,9,7,3
+"122","Lathrotriccus euleri","LAT-EUL","Mosqueta Parda",1,2,NA,1
+"123","Leistes superciliaris","LEI-SUP","Pecho Colorado",31,15,6,2
+"124","Lepidocolaptes angustirostris","LEP-ANG","Chinchero Chico",113,84,94,62
+"125","Leptasthenura platensis","LEP-PLA","Coludito Copetón",60,36,77,48
+"126","Leptotila verreauxi","LEP-VER","Yerutí Gris",54,36,30,46
+"127","Lessonia rufa","LES-RUF","Sobrepuesto Austral",NA,3,71,30
+"128","Leucochloris albicollis","LEU-ALB","Picaflor Garganta Blanca",NA,1,NA,1
+"129","Limnoctites rectirostris","LIM-REC","Pajonalera Pico Recto",6,NA,2,5
+"130","Limnornis curvirostris","LIM-CUR","Pajonalera Pico Curvo",36,13,33,13
+"131","Machetornis rixosa","MAC-RIX","Picabuey",91,82,125,65
+"132","Megaceryle torquata","MEG-TOR","Martín Pescador Grande",20,16,12,8
+"133","Megascops choliba","MEG-CHO","Alilicucú Común",4,NA,2,2
+"134","Melanerpes cactorum","MEL-CAC","Carpintero del Cardón",141,90,92,50
+"135","Melanerpes candidus","MEL-CAN","Carpintero Blanco",50,38,44,15
+"136","Microspingus cabanisi","MIC-CAB","Monterita Litoraleña",1,NA,1,3
+"137","Microspingus melanoleucus","MIC-MEL","Monterita Cabeza Negra",79,55,85,47
+"138","Milvago chimachima","MIL-CHI","Chimachima",1,11,3,NA
+"139","Milvago chimango","MIL-CHI","Chimango",133,81,109,53
+"140","Mimus patagonicus","MIM-PAT","Calandria Mora",NA,NA,1,NA
+"141","Mimus saturninus","MIM-SAT","Calandria Grande",191,136,206,121
+"142","Mimus triurus","MIM-TRI","Calandria Real",6,8,56,24
+"143","Molothrus bonariensis","MOL-BON","Tordo Renegrido",431,416,675,360
+"144","Molothrus rufoaxillaris","MOL-RUF","Tordo Pico Corto",105,76,32,32
+"145","Muscisaxicola maclovianus","MUS-MAC","Dormilona Cara Negra",NA,NA,NA,1
+"146","Mycteria americana","MYC-AME","Tuyuyú",157,233,95,8
+"147","Myiarchus ferox","MYI-FER","Burlisto Pico Negro",NA,1,NA,NA
+"148","Myiarchus swainsoni","MYI-SWA","Burlisto Pico Canela",17,11,NA,NA
+"149","Myiodynastes maculatus","MYI-MAC","Benteveo rayado",13,11,NA,NA
+"150","Myiophobus fasciatus","MYI-FAS","Mosqueta Estriada",21,11,1,3
+"151","Myiopsitta monachus","MYI-MON","Cotorra",1919,1934,2663,861
+"152","Neoxolmis rufiventris","NEO-RUF","Monjita Chocolate",NA,NA,1,NA
+"153","Netta peposaca","NET-PEP","Pato Picazo",442,95,161,151
+"154","Nomonyx dominicus","NOM-DOM","Pato Fierro",49,2,10,2
+"155","Nothura maculosa","NOT-MAC","Inambú Campestre",28,6,16,18
+"156","Notiochelidon cyanoleuca","NOT-CYA","Golondrina Barranquera",46,16,114,13
+"157","Nycticorax nycticorax","NYC-NYC","Garza Bruja",110,54,22,10
+"158","Nycticryphes semicollaris","NYC-SEM","Aguatero",7,1,NA,2
+"159","Pachyramphus polychopterus","PAC-POL","Anambé Negro",11,8,1,NA
+"160","Pandion haliaetus","PAN-HAL","Águila Pescadora",1,NA,NA,NA
+"161","Parabuteo unicinctus","PAR-UNI","Gavilán Mixto",7,25,2,7
+"162","Pardirallus maculatus","PAR-MAC","Gallineta Overa",28,1,4,NA
+"163","Pardirallus sanguinolentus","PAR-SAN","Gallineta Pico Pintado",77,34,49,28
+"164","Paroaria capitata","PAR-CAP","Cardenilla",25,13,35,21
+"165","Paroaria coronata","PAR-COR","Cardenal Copete Rojo",293,274,397,282
+"166","Passer domesticus","PAS-DOM","Gorrión",141,144,143,96
+"167","Patagioenas maculosa","PAT-MAC","Paloma Manchada",172,100,115,75
+"168","Patagioenas picazuro","PAT-PIC","Paloma Picazuró",119,278,151,73
+"169","Petrochelidon pyrrhonota","PET-PYR","Golondrina Rabadilla Canela",1088,3,NA,NA
+"170","Phacellodomus ruber","PHA-RUB","Espinero Grande",1,NA,NA,NA
+"171","Phacellodomus sibilatrix","PHA-SIB","Espinero Chico",66,38,51,33
+"172","Phaetusa simplex","PHA-SIM","Atí",1,4,1,1
+"173","Phalacrocorax brasilianus","PHA-BRA","Biguá",248,198,145,101
+"174","Phalaropus tricolor","PHA-TRI","Falaropo común",9,1,NA,NA
+"175","Phimosus infuscatus","PHI-INF","Cuervillo Cara Pelada",996,583,485,227
+"176","Phleocryptes melanops","PHL-MEL","Junquero",78,24,43,38
+"177","Phoenicopterus chilensis","PHO-CHI","Flamenco Austral",NA,NA,30,NA
+"178","Phylloscartes ventralis","PHY-VEN","Mosqueta Carasucia",NA,1,1,3
+"179","Phytotoma rutila","PHY-RUT","Cortarramas",33,27,93,62
+"180","Picumnus cirratus","PIC-CIR","Carpinterito Barrado",2,6,1,3
+"181","Pipraeidea bonariensis","PIP-BON","Naranjero",36,18,22,12
+"182","Pipraeidea melanonota","PIP-MEL","Saíra de antifaz",NA,NA,1,NA
+"183","Piranga flava","PIR-FLA","Fueguero común",1,6,8,11
+"184","Pitangus sulphuratus","PIT-SUL","Benteveo",297,297,344,187
+"185","Platalea ajaja","PLA-AJA","Espátula Rosada",193,117,69,34
+"186","Plegadis chihi","PLE-CHI","Cuervillo de Cañada",1919,2068,1030,681
+"187","Pluvialis dominica","PLU-DOM","Chorlo Pampa",4,15,NA,NA
+"188","Podager nacunda","POD-NAC","Ñacundá",67,34,1,21
+"189","Podiceps major","POD-MAJ","Macá Grande",9,8,15,8
+"190","Podilymbus podiceps","POD-POD","Macá Pico Grueso",36,11,26,18
+"191","Polioptila dumicola","POL-DUM","Tacuarita Azul",110,174,171,95
+"192","Polystictus pectoralis","POL-PEC","Tachurí Canela",2,2,1,NA
+"193","Porphyrio martinica","POR-MAR","Pollona azul",11,3,1,NA
+"194","Progne chalybea","PRO-CHA","Golondrina Doméstica",85,30,NA,19
+"195","Progne elegans","PRO-ELE","Golondrina Negra",7,NA,NA,NA
+"196","Progne tapera","PRO-TAP","Golondrina Parda",530,887,160,33
+"197","Pseudocolopteryx flaviventris","PSE-FLA","Doradito Pampeano",37,19,25,10
+"198","Pseudocolopteryx sclateri","PSE-SCL","Doradito Copetón",2,NA,NA,NA
+"199","Pseudoleistes virescens","PSE-VIR","Pecho Amarillo",248,231,227,152
+"200","Pseudoseisura lophotes","PSE-LOP","Cacholote Castaño",90,79,145,59
+"201","Pyrocephalus rubinus","PYR-RUB","Churrinche",178,120,78,42
+"202","Rhea americana","RHE-AME","Ñandú",22,15,1,4
+"203","Rhynchotus rufescens","RHY-RUF","Colorada",6,NA,NA,3
+"204","Riparia riparia","RIP-RIP","Golondrina Zapadora",11,24,1,NA
+"205","Rollandia rolland","ROL-ROL","Macá Cara Blanca",38,4,84,16
+"206","Rostrhamus sociabilis","ROS-SOC","Caracolero",492,256,71,96
+"207","Rupornis magnirostris","RUP-MAG","Taguató",55,50,110,68
+"208","Rynchops niger","RYN-NIG","Rayador",1,NA,NA,1
+"209","Saltator aurantiirostris","SAL-AUR","Pepitero de collar",77,56,56,43
+"210","Saltator coerulescens","SAL-COE","Pepitero gris",40,20,41,29
+"211","Saltator similis","SAL-SIM","Pepitero verdoso",1,3,8,3
+"212","Saltatricula multicolor","SAL-MUL","Pepitero chico",3,2,NA,NA
+"213","Sarkidiornis melanotos","SAR-MEL","Pato Crestudo Africano",NA,1,NA,NA
+"214","Satrapa icterophrys","SAT-ICT","Suirirí Amarillo",50,20,20,29
+"215","Schoeniophylax phryganophilus","SCH-PHR","Chotoy",138,121,108,58
+"216","Serpophaga griseicapilla","SER-GRI","Piojito Trinador",12,2,23,7
+"217","Serpophaga nigricans","SER-NIG","Piojito Gris",56,31,42,42
+"218","Serpophaga subcristata","SER-SUB","Piojito Tiquitiqui",45,48,86,36
+"219","Setophaga pitiayumi","SET-PIT","Pitiayumí",6,NA,16,13
+"220","Sicalis flaveola","SIC-FLA","Jilguero dorado",281,319,118,75
+"221","Sicalis luteola","SIC-LUT","Misto",336,32,27,26
+"222","Spartonoica maluroides","SPA-MAL","Espartillero Enano",1,NA,3,1
+"223","Spatula platalea","SPA-PLA","Pato Cuchara",4,1,9,11
+"224","Spatula versicolor","SPA-VER","Pato Capuchino",123,55,127,83
+"225","Spinus magellanicus","SPI-MAG","Cabecitanegra",170,110,123,96
+"226","Spizaetus melanoleucus","SPI-MEL","Águila Viuda",NA,NA,3,NA
+"227","Sporophila caerulescens","SPO-CAE","Corbatita",95,118,36,3
+"228","Sporophila cinnamomea","SPO-CIN","Capuchino Corona Gris",1,3,NA,NA
+"229","Sporophila collaris","SPO-COL","Corbatita dominó",10,4,7,16
+"230","Sporophila hypoxantha","SPO-HYP","Capuchino canela",2,1,NA,NA
+"231","Sporophila nigrorufa","SPO-NIG","Siete Vestidos Pampeano",85,46,73,35
+"232","Sporophila palustris","SPO-PAL","Capuchino Pecho Blanco",NA,7,NA,NA
+"233","Sporophila ruficollis","SPO-RUF","Capuchino garganta café",3,1,NA,NA
+"234","Stelgidopteryx ruficollis","STE-RUF","Golondrina Ribereña",37,NA,NA,NA
+"235","Stephanophorus diadematus","STE-DIA","Frutero azul",2,1,NA,1
+"236","Sterna trudeaui","STE-TRU","Gaviotín Lagunero",2,2,NA,4
+"237","Sternula superciliaris","STE-SUP","Gaviotín de Río",NA,1,1,2
+"238","Sturnus vulgaris","STU-VUL","Estornino Pinto",33,39,22,7
+"239","Sublegatus modestus","SUB-MOD","Suirirí Pico Corto",16,1,2,3
+"240","Suiriri suiriri","SUI-SUI","Suirirí Gris",48,51,41,31
+"241","Synallaxis albescens","SYN-ALB","Pijuí Cola Parda",33,18,6,5
+"242","Synallaxis frontalis","SYN-FRO","Pijuí Frente Gris",47,37,37,23
+"243","Synallaxis spixi","SYN-SPI","Pijuí Plomizo",6,2,4,1
+"244","Syrigma sibilatrix","SYR-SIB","Chiflón",55,35,56,41
+"245","Tachuris rubrigastra","TAC-RUB","Tachurí Sietecolores",14,6,23,13
+"246","Tachybaptus dominicus","TAC-DOM","Macá Gris",NA,1,NA,NA
+"247","Tachycineta leucopyga","TAC-LEU","Golondrina Patagónica",1,2,155,34
+"248","Tachycineta leucorrhoa","TAC-LEU","Golondrina Ceja Blanca",340,239,261,46
+"249","Tapera naevia","TAP-NAE","Crespín",21,10,NA,1
+"250","Taraba major","TAR-MAJ","Chororó",6,1,2,1
+"251","Tarphonomus certhioides","TAR-CER","Bandurrita Chaqueña",NA,3,NA,NA
+"252","Thamnophilus caerulescens","THA-CAE","Choca Corona Negruzca",1,4,1,NA
+"253","Thamnophilus ruficapillus","THA-RUF","Choca Corona Rojiza",17,8,11,7
+"254","Theristicus caerulescens","THE-CAE","Bandurria Mora",7,14,14,2
+"255","Thraupis sayaca","THR-SAY","Celestino",60,48,50,13
+"256","Tigrisoma lineatum","TIG-LIN","Hocó Colorado",69,37,52,40
+"257","Tringa flavipes","TRI-FLA","Pitotoy Chico",205,49,2,40
+"258","Tringa melanoleuca","TRI-MEL","Pitotoy Grande",19,46,3,4
+"259","Tringa solitaria","TRI-SOL","Pitotoy Solitario",22,9,NA,1
+"260","Troglodytes aedon","TRO-AED","Ratona",174,73,130,109
+"261","Tryngites subruficollis","TRY-SUB","Playerito Canela",1,1,NA,NA
+"262","Turdus amaurochalinus","TUR-AMA","Zorzal Chalchalero",38,48,47,41
+"263","Turdus rufiventris","TUR-RUF","Zorzal Colorado",73,37,80,46
+"264","Tyrannus melancholicus","TYR-MEL","Suirirí Real",93,149,13,NA
+"265","Tyrannus savana","TYR-SAV","Tijereta",206,169,NA,6
+"266","Tyto alba","TYT-ALB","Lechuza de Campanario",NA,NA,NA,1
+"267","Vanellus chilensis","VAN-CHI","Tero",480,463,737,220
+"268","Vireo chivi","VIR-CHI","Chiví-chiví",1,2,NA,NA
+"269","Volatinia jacarina","VOL-JAC","Volatinero",4,2,NA,NA
+"270","Xenopsaris albinucha","XEN-ALB","Tijerilla",51,36,9,1
+"271","Xiphorhynchus fuscus","XIP-FUS","Chinchero Enano",NA,1,21,27
+"272","Xolmis cinereus","XOL-CIN","Monjita Gris",8,2,5,8
+"273","Xolmis coronatus","XOL-COR","Monjita Coronada",NA,NA,31,10
+"274","Xolmis dominicanus","XOL-DOM","Monjita Dominica",NA,NA,NA,2
+"275","Xolmis irupero","XOL-IRU","Monjita Blanca",105,86,165,84
+"276","Zenaida auriculata","ZEN-AUR","Torcaza",557,501,221,191
+"277","Zonotrichia capensis","ZON-CAP","Chingolo",325,267,344,171

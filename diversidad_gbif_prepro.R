@@ -98,6 +98,11 @@ listado_spp <- listado_spp[-(which(listado_spp$Codigo == "NA-NA")),]
 #le cambio el nombre de columnas a castellano
 colnames(listado_spp) <- c("Orden", "Familia", "Especie", "Codigo", "Nregistros")
 
+#cargo capas de nombres comunes
+nombres_comunes <- read_csv("data/nombres_comunes.csv")
+
+listado_spp <- left_join(listado_spp, nombres_comunes, by= "Especie")
+
 #guardo el listado a disco
 write_csv(listado_spp, "output/listado_spp.csv")
 
@@ -170,7 +175,14 @@ colnames(aves_estacion) <- c("Especie", "Primavera", "Verano", "Otonio", "Invier
 codigos <- listado_spp[, c(3:4)] #me quedo con una tabla solo de spp y codigo
 aves_estacion <- left_join(aves_estacion, codigos) #le uno el código a la tabla de estaciones
 
+aves_estacion  <- left_join(aves_estacion , nombres_comunes, by= "Especie")
+
+#re-ordenar columnas
+colnames(aves_estacion )
+aves_estacion <- aves_estacion %>% relocate (c(Codigo, nombrecomun), .after= Especie)
+
 View(aves_estacion)
+
 
 # Guardamos la tabla a disco en un archivo csv (apto para Excel)
 write.csv(aves_estacion, file = "output/aves_estacion.csv" )
@@ -212,10 +224,15 @@ colnames(aves_lustro) <- c("Especie", "Periodo2005-2009", "Periodo2010-2014", "P
 #y voy a agregar el código
 codigos <- listado_spp[, c(3:4)] #me quedo con una tabla solo de spp y codigo
 aves_lustro <- left_join(aves_lustro, codigos) #le uno el código a la tabla de estaciones
+aves_lustro  <- left_join(aves_lustro , nombres_comunes, by= "Especie")
+
+#re-ordenar columnas
+colnames(aves_lustro)
+aves_lustro <- aves_lustro %>% relocate (c(Codigo, nombrecomun), .after= Especie)
 
 View(aves_lustro)
 
 # Guardamos la tabla a disco en un archivo csv (apto para Excel)
 write.csv(aves_lustro, "output/aves_lustro.csv")                          
 
-#### Ahora podemos seguir con el otro código, para calcular índicies de diversidad y de disimilitud #####
+#### Ahora podemos seguir con el otro código, para calcular índices de diversidad y de disimilitud #####

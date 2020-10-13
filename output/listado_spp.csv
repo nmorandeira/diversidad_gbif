@@ -1,278 +1,278 @@
-Orden,Familia,Especie,Codigo,Nregistros
-Accipitriformes,Accipitridae,Accipiter striatus,ACC-STR,6
-Accipitriformes,Accipitridae,Busarellus nigricollis,BUS-NIG,2
-Accipitriformes,Accipitridae,Buteo albicaudatus,BUT-ALB,11
-Accipitriformes,Accipitridae,Buteo swainsoni,BUT-SWA,2
-Accipitriformes,Accipitridae,Buteogallus meridionalis,BUT-MER,385
-Accipitriformes,Accipitridae,Circus buffoni,CIR-BUF,229
-Accipitriformes,Accipitridae,Circus cinereus,CIR-CIN,3
-Accipitriformes,Accipitridae,Elanus leucurus,ELA-LEU,21
-Accipitriformes,Accipitridae,Geranospiza caerulescens,GER-CAE,1
-Accipitriformes,Accipitridae,Parabuteo unicinctus,PAR-UNI,62
-Accipitriformes,Accipitridae,Rostrhamus sociabilis,ROS-SOC,376
-Accipitriformes,Accipitridae,Rupornis magnirostris,RUP-MAG,307
-Accipitriformes,Accipitridae,Spizaetus melanoleucus,SPI-MEL,2
-Accipitriformes,Cathartidae,Cathartes aura,CAT-AUR,7
-Accipitriformes,Cathartidae,Coragyps atratus,COR-ATR,49
-Accipitriformes,Pandionidae,Pandion haliaetus,PAN-HAL,1
-Anseriformes,Anatidae,Amazonetta brasiliensis,AMA-BRA,388
-Anseriformes,Anatidae,Anas bahamensis,ANA-BAH,11
-Anseriformes,Anatidae,Anas cyanoptera,ANA-CYA,2
-Anseriformes,Anatidae,Anas flavirostris,ANA-FLA,312
-Anseriformes,Anatidae,Anas georgica,ANA-GEO,56
-Anseriformes,Anatidae,Anas sibilatrix,ANA-SIB,8
-Anseriformes,Anatidae,Callonetta leucophrys,CAL-LEU,327
-Anseriformes,Anatidae,Coscoroba coscoroba,COS-COS,177
-Anseriformes,Anatidae,Cygnus melancoryphus,CYG-MEL,102
-Anseriformes,Anatidae,Dendrocygna autumnalis,DEN-AUT,38
-Anseriformes,Anatidae,Dendrocygna bicolor,DEN-BIC,167
-Anseriformes,Anatidae,Dendrocygna viduata,DEN-VID,219
-Anseriformes,Anatidae,Heteronetta atricapilla,HET-ATR,17
-Anseriformes,Anatidae,Netta peposaca,NET-PEP,260
-Anseriformes,Anatidae,Nomonyx dominicus,NOM-DOM,48
-Anseriformes,Anatidae,Sarkidiornis melanotos,SAR-MEL,1
-Anseriformes,Anatidae,Spatula platalea,SPA-PLA,27
-Anseriformes,Anatidae,Spatula versicolor,SPA-VER,228
-Anseriformes,Anhimidae,Chauna torquata,CHA-TOR,537
-Apodiformes,Trochilidae,Chlorostilbon lucidus,CHL-LUC,170
-Apodiformes,Trochilidae,Heliomaster furcifer,HEL-FUR,6
-Apodiformes,Trochilidae,Hylocharis chrysura,HYL-CHR,106
-Apodiformes,Trochilidae,Leucochloris albicollis,LEU-ALB,10
-Caprimulgiformes,Caprimulgidae,Caprimulgus longirostris,CAP-LON,6
-Caprimulgiformes,Caprimulgidae,Caprimulgus parvulus,CAP-PAR,15
-Caprimulgiformes,Caprimulgidae,Hydropsalis torquata,HYD-TOR,48
-Caprimulgiformes,Caprimulgidae,Podager nacunda,POD-NAC,90
-Charadriiformes,Charadriidae,Charadrius collaris,CHA-COL,12
-Charadriiformes,Charadriidae,Charadrius modestus,CHA-MOD,2
-Charadriiformes,Charadriidae,Pluvialis dominica,PLU-DOM,10
-Charadriiformes,Charadriidae,Vanellus chilensis,VAN-CHI,517
-Charadriiformes,Jacanidae,Jacana jacana,JAC-JAC,466
-Charadriiformes,Laridae,Chroicocephalus cirrocephalus,CHR-CIR,7
-Charadriiformes,Laridae,Chroicocephalus maculipennis,CHR-MAC,119
-Charadriiformes,Laridae,Larus dominicanus,LAR-DOM,8
-Charadriiformes,Laridae,Phaetusa simplex,PHA-SIM,7
-Charadriiformes,Laridae,Rynchops niger,RYN-NIG,3
-Charadriiformes,Laridae,Sterna trudeaui,STE-TRU,7
-Charadriiformes,Laridae,Sternula superciliaris,STE-SUP,4
-Charadriiformes,Recurvirostridae,Himantopus mexicanus,HIM-MEX,307
-Charadriiformes,Rostratulidae,Nycticryphes semicollaris,NYC-SEM,9
-Charadriiformes,Scolopacidae,Actitis macularius,ACT-MAC,2
-Charadriiformes,Scolopacidae,Bartramia longicauda,BAR-LON,4
-Charadriiformes,Scolopacidae,Calidris bairdii,CAL-BAI,11
-Charadriiformes,Scolopacidae,Calidris fuscicollis,CAL-FUS,10
-Charadriiformes,Scolopacidae,Calidris melanotos,CAL-MEL,106
-Charadriiformes,Scolopacidae,Gallinago paraguaiae,GAL-PAR,252
-Charadriiformes,Scolopacidae,Phalaropus tricolor,PHA-TRI,6
-Charadriiformes,Scolopacidae,Tringa flavipes,TRI-FLA,130
-Charadriiformes,Scolopacidae,Tringa melanoleuca,TRI-MEL,63
-Charadriiformes,Scolopacidae,Tringa solitaria,TRI-SOL,56
-Charadriiformes,Scolopacidae,Tryngites subruficollis,TRY-SUB,2
-Ciconiiformes,Ciconiidae,Ciconia maguari,CIC-MAG,496
-Ciconiiformes,Ciconiidae,Mycteria americana,MYC-AME,192
-Columbiformes,Columbidae,Columba livia,COL-LIV,111
-Columbiformes,Columbidae,Columbina picui,COL-PIC,321
-Columbiformes,Columbidae,Columbina talpacoti,COL-TAL,3
-Columbiformes,Columbidae,Leptotila verreauxi,LEP-VER,207
-Columbiformes,Columbidae,Patagioenas maculosa,PAT-MAC,306
-Columbiformes,Columbidae,Patagioenas picazuro,PAT-PIC,319
-Columbiformes,Columbidae,Zenaida auriculata,ZEN-AUR,434
-Coraciiformes,Alcedinidae,Chloroceryle amazona,CHL-AMA,48
-Coraciiformes,Alcedinidae,Chloroceryle americana,CHL-AME,121
-Coraciiformes,Alcedinidae,Megaceryle torquata,MEG-TOR,85
-Cuculiformes,Cuculidae,Coccycua cinerea,COC-CIN,57
-Cuculiformes,Cuculidae,Coccyzus melacoryphus,COC-MEL,57
-Cuculiformes,Cuculidae,Guira guira,GUI-GUI,373
-Cuculiformes,Cuculidae,Tapera naevia,TAP-NAE,52
-Falconiformes,Falconidae,Caracara plancus,CAR-PLA,490
-Falconiformes,Falconidae,Falco femoralis,FAL-FEM,4
-Falconiformes,Falconidae,Falco peregrinus,FAL-PER,1
-Falconiformes,Falconidae,Falco sparverius,FAL-SPA,71
-Falconiformes,Falconidae,Milvago chimachima,MIL-CHI,314
-Falconiformes,Falconidae,Milvago chimango,MIL-CHI,314
-Gruiformes,Aramidae,Aramus guarauna,ARA-GUA,397
-Gruiformes,Rallidae,Aramides cajanea,ARA-CAJ,26
-Gruiformes,Rallidae,Aramides ypecaha,ARA-YPE,410
-Gruiformes,Rallidae,Fulica armillata,FUL-ARM,55
-Gruiformes,Rallidae,Fulica leucoptera,FUL-LEU,61
-Gruiformes,Rallidae,Fulica rufifrons,FUL-RUF,46
-Gruiformes,Rallidae,Gallinula chloropus,GAL-CHL,292
-Gruiformes,Rallidae,Gallinula melanops,GAL-MEL,217
-Gruiformes,Rallidae,Laterallus melanophaius,LAT-MEL,70
-Gruiformes,Rallidae,Pardirallus maculatus,PAR-MAC,50
-Gruiformes,Rallidae,Pardirallus sanguinolentus,PAR-SAN,213
-Gruiformes,Rallidae,Porphyrio martinica,POR-MAR,29
-Passeriformes,Cardinalidae,Cyanoloxia brissonii,CYA-BRI,14
-Passeriformes,Cardinalidae,Cyanoloxia glaucocaerulea,CYA-GLA,4
-Passeriformes,Cardinalidae,Piranga flava,PIR-FLA,35
-Passeriformes,Cardinalidae,Saltator aurantiirostris,SAL-AUR,264
-Passeriformes,Cardinalidae,Saltator coerulescens,SAL-COE,157
-Passeriformes,Cardinalidae,Saltator similis,SAL-SIM,16
-Passeriformes,Cotingidae,Pachyramphus polychopterus,PAC-POL,26
-Passeriformes,Cotingidae,Phytotoma rutila,PHY-RUT,226
-Passeriformes,Cotingidae,Xenopsaris albinucha,XEN-ALB,165
-Passeriformes,Emberizidae,Ammodramus humeralis,AMM-HUM,25
-Passeriformes,Emberizidae,Zonotrichia capensis,ZON-CAP,494
-Passeriformes,Fringillidae,Leistes superciliaris,LEI-SUP,69
-Passeriformes,Fringillidae,Spinus magellanicus,SPI-MAG,308
-Passeriformes,Furnariidae,Anabacerthia striaticollis,ANA-STR,294
-Passeriformes,Furnariidae,Anumbius annumbi,ANU-ANN,149
-Passeriformes,Furnariidae,Asthenes baeri,AST-BAE,211
-Passeriformes,Furnariidae,Asthenes pyrrholeuca,AST-PYR,3
-Passeriformes,Furnariidae,Certhiaxis cinnamomeus,CER-CIN,300
-Passeriformes,Furnariidae,Coryphistera alaudina,COR-ALA,85
-Passeriformes,Furnariidae,Cranioleuca pyrrhophia,CRA-PYR,272
-Passeriformes,Furnariidae,Drymornis bridgesii,DRY-BRI,185
-Passeriformes,Furnariidae,Furnarius rufus,FUR-RUF,526
-Passeriformes,Furnariidae,Lepidocolaptes angustirostris,LEP-ANG,367
-Passeriformes,Furnariidae,Leptasthenura platensis,LEP-PLA,238
-Passeriformes,Furnariidae,Limnoctites rectirostris,LIM-REC,13
-Passeriformes,Furnariidae,Limnornis curvirostris,LIM-CUR,122
-Passeriformes,Furnariidae,Phacellodomus ruber,PHA-RUB,1
-Passeriformes,Furnariidae,Phacellodomus sibilatrix,PHA-SIB,221
-Passeriformes,Furnariidae,Phleocryptes melanops,PHL-MEL,210
-Passeriformes,Furnariidae,Pseudoseisura lophotes,PSE-LOP,313
-Passeriformes,Furnariidae,Schoeniophylax phryganophilus,SCH-PHR,367
-Passeriformes,Furnariidae,Spartonoica maluroides,SPA-MAL,5
-Passeriformes,Furnariidae,Synallaxis albescens,SYN-ALB,122
-Passeriformes,Furnariidae,Synallaxis frontalis,SYN-FRO,223
-Passeriformes,Furnariidae,Synallaxis spixi,SYN-SPI,20
-Passeriformes,Furnariidae,Tarphonomus certhioides,TAR-CER,2
-Passeriformes,Furnariidae,Xiphorhynchus fuscus,XIP-FUS,45
-Passeriformes,Hirundinidae,Alopochelidon fucata,ALO-FUC,9
-Passeriformes,Hirundinidae,Hirundo rustica,HIR-RUS,97
-Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,NOT-CYA,81
-Passeriformes,Hirundinidae,Petrochelidon pyrrhonota,PET-PYR,31
-Passeriformes,Hirundinidae,Progne chalybea,PRO-CHA,130
-Passeriformes,Hirundinidae,Progne elegans,PRO-ELE,2
-Passeriformes,Hirundinidae,Progne tapera,PRO-TAP,343
-Passeriformes,Hirundinidae,Riparia riparia,RIP-RIP,23
-Passeriformes,Hirundinidae,Stelgidopteryx ruficollis,STE-RUF,4
-Passeriformes,Hirundinidae,Tachycineta leucopyga,TAC-LEU,319
-Passeriformes,Hirundinidae,Tachycineta leucorrhoa,TAC-LEU,319
-Passeriformes,Icteridae,Agelaioides badius,AGE-BAD,360
-Passeriformes,Icteridae,Agelasticus cyanopus,AGE-CYA,84
-Passeriformes,Icteridae,Agelasticus thilius,AGE-THI,220
-Passeriformes,Icteridae,Amblyramphus holosericeus,AMB-HOL,159
-Passeriformes,Icteridae,Cacicus solitarius,CAC-SOL,42
-Passeriformes,Icteridae,Chrysomus ruficapillus,CHR-RUF,339
-Passeriformes,Icteridae,Gnorimopsar chopi,GNO-CHO,7
-Passeriformes,Icteridae,Icterus pyrrhopterus,ICT-PYR,143
-Passeriformes,Icteridae,Molothrus bonariensis,MOL-BON,406
-Passeriformes,Icteridae,Molothrus rufoaxillaris,MOL-RUF,194
-Passeriformes,Icteridae,Pseudoleistes virescens,PSE-VIR,347
-Passeriformes,Mimidae,Mimus patagonicus,MIM-PAT,2
-Passeriformes,Mimidae,Mimus saturninus,MIM-SAT,451
-Passeriformes,Mimidae,Mimus triurus,MIM-TRI,90
-Passeriformes,Motacillidae,Anthus correndera,ANT-COR,30
-Passeriformes,Motacillidae,Anthus furcatus,ANT-FUR,5
-Passeriformes,Motacillidae,Anthus hellmayri,ANT-HEL,2
-Passeriformes,Motacillidae,Anthus lutescens,ANT-LUT,82
-Passeriformes,Parulidae,Basileuterus culicivorus,BAS-CUL,9
-Passeriformes,Parulidae,Geothlypis aequinoctialis,GEO-AEQ,183
-Passeriformes,Parulidae,Setophaga pitiayumi,SET-PIT,39
-Passeriformes,Passeridae,Passer domesticus,PAS-DOM,238
-Passeriformes,Polioptilidae,Polioptila dumicola,POL-DUM,412
-Passeriformes,Sturnidae,Sturnus vulgaris,STU-VUL,76
-Passeriformes,Thamnophilidae,Taraba major,TAR-MAJ,18
-Passeriformes,Thamnophilidae,Thamnophilus caerulescens,THA-CAE,7
-Passeriformes,Thamnophilidae,Thamnophilus ruficapillus,THA-RUF,57
-Passeriformes,Thraupidae,Coryphospingus cucullatus,COR-CUC,13
-Passeriformes,Thraupidae,Donacospiza albifrons,DON-ALB,16
-Passeriformes,Thraupidae,Embernagra platensis,EMB-PLA,252
-Passeriformes,Thraupidae,Microspingus cabanisi,MIC-CAB,7
-Passeriformes,Thraupidae,Microspingus melanoleucus,MIC-MEL,226
-Passeriformes,Thraupidae,Paroaria capitata,PAR-CAP,120
-Passeriformes,Thraupidae,Paroaria coronata,PAR-COR,474
-Passeriformes,Thraupidae,Pipraeidea bonariensis,PIP-BON,129
-Passeriformes,Thraupidae,Pipraeidea melanonota,PIP-MEL,1
-Passeriformes,Thraupidae,Saltatricula multicolor,SAL-MUL,14
-Passeriformes,Thraupidae,Sicalis flaveola,SIC-FLA,364
-Passeriformes,Thraupidae,Sicalis luteola,SIC-LUT,175
-Passeriformes,Thraupidae,Sporophila caerulescens,SPO-CAE,194
-Passeriformes,Thraupidae,Sporophila cinnamomea,SPO-CIN,9
-Passeriformes,Thraupidae,Sporophila collaris,SPO-COL,33
-Passeriformes,Thraupidae,Sporophila hypoxantha,SPO-HYP,3
-Passeriformes,Thraupidae,Sporophila nigrorufa,SPO-NIG,283
-Passeriformes,Thraupidae,Sporophila palustris,SPO-PAL,10
-Passeriformes,Thraupidae,Sporophila ruficollis,SPO-RUF,4
-Passeriformes,Thraupidae,Stephanophorus diadematus,STE-DIA,4
-Passeriformes,Thraupidae,Thraupis sayaca,THR-SAY,190
-Passeriformes,Thraupidae,Volatinia jacarina,VOL-JAC,5
-Passeriformes,Troglodytidae,Troglodytes aedon,TRO-AED,432
-Passeriformes,Turdidae,Turdus amaurochalinus,TUR-AMA,177
-Passeriformes,Turdidae,Turdus rufiventris,TUR-RUF,255
-Passeriformes,Tyrannidae,Camptostoma obsoletum,CAM-OBS,32
-Passeriformes,Tyrannidae,Elaenia albiceps,ELA-ALB,2
-Passeriformes,Tyrannidae,Elaenia parvirostris,ELA-PAR,79
-Passeriformes,Tyrannidae,Empidonomus aurantioatrocristatus,EMP-AUR,148
-Passeriformes,Tyrannidae,Euscarthmus meloryphus,EUS-MEL,33
-Passeriformes,Tyrannidae,Fluvicola pica,FLU-PIC,188
-Passeriformes,Tyrannidae,Hemitriccus margaritaceiventer,HEM-MAR,4
-Passeriformes,Tyrannidae,Hymenops perspicillatus,HYM-PER,340
-Passeriformes,Tyrannidae,Knipolegus cyanirostris,KNI-CYA,5
-Passeriformes,Tyrannidae,Lathrotriccus euleri,LAT-EUL,11
-Passeriformes,Tyrannidae,Lessonia rufa,LES-RUF,64
-Passeriformes,Tyrannidae,Machetornis rixosa,MAC-RIX,346
-Passeriformes,Tyrannidae,Muscisaxicola maclovianus,MUS-MAC,1
-Passeriformes,Tyrannidae,Myiarchus ferox,MYI-FER,1
-Passeriformes,Tyrannidae,Myiarchus swainsoni,MYI-SWA,35
-Passeriformes,Tyrannidae,Myiodynastes maculatus,MYI-MAC,29
-Passeriformes,Tyrannidae,Myiophobus fasciatus,MYI-FAS,48
-Passeriformes,Tyrannidae,Neoxolmis rufiventris,NEO-RUF,1
-Passeriformes,Tyrannidae,Phylloscartes ventralis,PHY-VEN,8
-Passeriformes,Tyrannidae,Pitangus sulphuratus,PIT-SUL,502
-Passeriformes,Tyrannidae,Polystictus pectoralis,POL-PEC,6
-Passeriformes,Tyrannidae,Pseudocolopteryx flaviventris,PSE-FLA,119
-Passeriformes,Tyrannidae,Pseudocolopteryx sclateri,PSE-SCL,3
-Passeriformes,Tyrannidae,Pyrocephalus rubinus,PYR-RUB,398
-Passeriformes,Tyrannidae,Satrapa icterophrys,SAT-ICT,182
-Passeriformes,Tyrannidae,Serpophaga griseicapilla,SER-GRI,49
-Passeriformes,Tyrannidae,Serpophaga nigricans,SER-NIG,217
-Passeriformes,Tyrannidae,Serpophaga subcristata,SER-SUB,227
-Passeriformes,Tyrannidae,Sublegatus modestus,SUB-MOD,31
-Passeriformes,Tyrannidae,Suiriri suiriri,SUI-SUI,198
-Passeriformes,Tyrannidae,Tachuris rubrigastra,TAC-RUB,73
-Passeriformes,Tyrannidae,Tyrannus melancholicus,TYR-MEL,251
-Passeriformes,Tyrannidae,Tyrannus savana,TYR-SAV,280
-Passeriformes,Tyrannidae,Xolmis cinereus,XOL-CIN,33
-Passeriformes,Tyrannidae,Xolmis coronatus,XOL-COR,47
-Passeriformes,Tyrannidae,Xolmis dominicanus,XOL-DOM,1
-Passeriformes,Tyrannidae,Xolmis irupero,XOL-IRU,414
-Passeriformes,Vireonidae,Cyclarhis gujanensis,CYC-GUJ,131
-Passeriformes,Vireonidae,Vireo chivi,VIR-CHI,3
-Pelecaniformes,Ardeidae,Ardea alba,ARD-ALB,411
-Pelecaniformes,Ardeidae,Ardea cocoi,ARD-COC,424
-Pelecaniformes,Ardeidae,Bubulcus ibis,BUB-IBI,161
-Pelecaniformes,Ardeidae,Butorides striata,BUT-STR,128
-Pelecaniformes,Ardeidae,Egretta thula,EGR-THU,287
-Pelecaniformes,Ardeidae,Ixobrychus involucris,IXO-INV,6
-Pelecaniformes,Ardeidae,Nycticorax nycticorax,NYC-NYC,162
-Pelecaniformes,Ardeidae,Syrigma sibilatrix,SYR-SIB,225
-Pelecaniformes,Ardeidae,Tigrisoma lineatum,TIG-LIN,223
-Pelecaniformes,Threskiornithidae,Phimosus infuscatus,PHI-INF,426
-Pelecaniformes,Threskiornithidae,Platalea ajaja,PLA-AJA,299
-Pelecaniformes,Threskiornithidae,Plegadis chihi,PLE-CHI,492
-Pelecaniformes,Threskiornithidae,Theristicus caerulescens,THE-CAE,23
-Phoenicopteriformes,Phoenicopteridae,Phoenicopterus chilensis,PHO-CHI,1
-Piciformes,Picidae,Campephilus leucopogon,CAM-LEU,7
-Piciformes,Picidae,Colaptes campestris,COL-CAM,94
-Piciformes,Picidae,Colaptes melanochloros,COL-MEL,339
-Piciformes,Picidae,Melanerpes cactorum,MEL-CAC,321
-Piciformes,Picidae,Melanerpes candidus,MEL-CAN,129
-Piciformes,Picidae,Picumnus cirratus,PIC-CIR,25
-Podicipediformes,Podicipedidae,Podiceps major,POD-MAJ,48
-Podicipediformes,Podicipedidae,Podilymbus podiceps,POD-POD,130
-Podicipediformes,Podicipedidae,Rollandia rolland,ROL-ROL,113
-Podicipediformes,Podicipedidae,Tachybaptus dominicus,TAC-DOM,1
-Psittaciformes,Psittacidae,Myiopsitta monachus,MYI-MON,515
-Rheiformes,Rheidae,Rhea americana,RHE-AME,28
-Strigiformes,Strigidae,Asio flammeus,ASI-FLA,3
-Strigiformes,Strigidae,Athene cunicularia,ATH-CUN,52
-Strigiformes,Strigidae,Bubo virginianus,BUB-VIR,42
-Strigiformes,Strigidae,Glaucidium brasilianum,GLA-BRA,55
-Strigiformes,Strigidae,Megascops choliba,MEG-CHO,8
-Strigiformes,Tytonidae,Tyto alba,TYT-ALB,1
-Suliformes,Anhingidae,Anhinga anhinga,ANH-ANH,79
-Suliformes,Phalacrocoracidae,Phalacrocorax brasilianus,PHA-BRA,346
-Tinamiformes,Tinamidae,Nothura maculosa,NOT-MAC,98
-Tinamiformes,Tinamidae,Rhynchotus rufescens,RHY-RUF,9
+Orden,Familia,Especie,Codigo,nombrecomun
+Accipitriformes,Accipitridae,Accipiter striatus,ACC-STR,Esparvero Estriado
+Accipitriformes,Accipitridae,Busarellus nigricollis,BUS-NIG,Aguilucho Pampa
+Accipitriformes,Accipitridae,Buteo albicaudatus,BUT-ALB,Aguilucho Langostero
+Accipitriformes,Accipitridae,Buteo swainsoni,BUT-SWA,Aguilucho Langostero
+Accipitriformes,Accipitridae,Buteogallus meridionalis,BUT-MER,Aguilucho Colorado
+Accipitriformes,Accipitridae,Circus buffoni,CIR-BUF,Gavilán Planeador
+Accipitriformes,Accipitridae,Circus cinereus,CIR-CIN,Gavilán Ceniciento
+Accipitriformes,Accipitridae,Elanus leucurus,ELA-LEU,Milano Blanco
+Accipitriformes,Accipitridae,Geranospiza caerulescens,GER-CAE,Gavilán Patas Largas
+Accipitriformes,Accipitridae,Parabuteo unicinctus,PAR-UNI,Gavilán Mixto
+Accipitriformes,Accipitridae,Rostrhamus sociabilis,ROS-SOC,Caracolero
+Accipitriformes,Accipitridae,Rupornis magnirostris,RUP-MAG,Taguató
+Accipitriformes,Accipitridae,Spizaetus melanoleucus,SPI-MEL,Águila Viuda
+Accipitriformes,Cathartidae,Cathartes aura,CAT-AUR,Jote Cabeza Colorada
+Accipitriformes,Cathartidae,Coragyps atratus,COR-ATR,Jote Cabeza Negra
+Accipitriformes,Pandionidae,Pandion haliaetus,PAN-HAL,Águila Pescadora
+Anseriformes,Anatidae,Amazonetta brasiliensis,AMA-BRA,Pato Cutirí
+Anseriformes,Anatidae,Anas bahamensis,ANA-BAH,Pato Gargantilla
+Anseriformes,Anatidae,Anas cyanoptera,ANA-CYA,Pato Colorado
+Anseriformes,Anatidae,Anas flavirostris,ANA-FLA,Pato Barcino
+Anseriformes,Anatidae,Anas georgica,ANA-GEO,Pato Maicero
+Anseriformes,Anatidae,Anas sibilatrix,ANA-SIB,Pato Overo
+Anseriformes,Anatidae,Callonetta leucophrys,CAL-LEU,Pato de Collar
+Anseriformes,Anatidae,Coscoroba coscoroba,COS-COS,Coscoroba
+Anseriformes,Anatidae,Cygnus melancoryphus,CYG-MEL,Cisne Cuello Negro
+Anseriformes,Anatidae,Dendrocygna autumnalis,DEN-AUT,Sirirí Vientre Negro
+Anseriformes,Anatidae,Dendrocygna bicolor,DEN-BIC,Sirirí Colorado
+Anseriformes,Anatidae,Dendrocygna viduata,DEN-VID,Sirirí Pampa
+Anseriformes,Anatidae,Heteronetta atricapilla,HET-ATR,Pato Cabeza Negra
+Anseriformes,Anatidae,Netta peposaca,NET-PEP,Pato Picazo
+Anseriformes,Anatidae,Nomonyx dominicus,NOM-DOM,Pato Fierro
+Anseriformes,Anatidae,Sarkidiornis melanotos,SAR-MEL,Pato Crestudo Africano
+Anseriformes,Anatidae,Spatula platalea,SPA-PLA,Pato Cuchara
+Anseriformes,Anatidae,Spatula versicolor,SPA-VER,Pato Capuchino
+Anseriformes,Anhimidae,Chauna torquata,CHA-TOR,Chajá
+Apodiformes,Trochilidae,Chlorostilbon lucidus,CHL-LUC,Picaflor Verde
+Apodiformes,Trochilidae,Heliomaster furcifer,HEL-FUR,Picaflor de Barbijo
+Apodiformes,Trochilidae,Hylocharis chrysura,HYL-CHR,Picaflor Bronceado
+Apodiformes,Trochilidae,Leucochloris albicollis,LEU-ALB,Picaflor Garganta Blanca
+Caprimulgiformes,Caprimulgidae,Caprimulgus longirostris,CAP-LON,Atajacaminos Ñañarca
+Caprimulgiformes,Caprimulgidae,Caprimulgus parvulus,CAP-PAR,Atajacaminos Chico
+Caprimulgiformes,Caprimulgidae,Hydropsalis torquata,HYD-TOR,Atajacaminos Tijera
+Caprimulgiformes,Caprimulgidae,Podager nacunda,POD-NAC,Ñacundá
+Charadriiformes,Charadriidae,Charadrius collaris,CHA-COL,Chorlito de Collar
+Charadriiformes,Charadriidae,Charadrius modestus,CHA-MOD,Chorlito Pecho Canela
+Charadriiformes,Charadriidae,Pluvialis dominica,PLU-DOM,Chorlo Pampa
+Charadriiformes,Charadriidae,Vanellus chilensis,VAN-CHI,Tero
+Charadriiformes,Jacanidae,Jacana jacana,JAC-JAC,Jacana
+Charadriiformes,Laridae,Chroicocephalus cirrocephalus,CHR-CIR,Gaviota capucho gris
+Charadriiformes,Laridae,Chroicocephalus maculipennis,CHR-MAC,Gaviota capucho café
+Charadriiformes,Laridae,Larus dominicanus,LAR-DOM,Gaviota Cocinera
+Charadriiformes,Laridae,Phaetusa simplex,PHA-SIM,Atí
+Charadriiformes,Laridae,Rynchops niger,RYN-NIG,Rayador
+Charadriiformes,Laridae,Sterna trudeaui,STE-TRU,Gaviotín Lagunero
+Charadriiformes,Laridae,Sternula superciliaris,STE-SUP,Gaviotín de Río
+Charadriiformes,Recurvirostridae,Himantopus mexicanus,HIM-MEX,Tero real
+Charadriiformes,Rostratulidae,Nycticryphes semicollaris,NYC-SEM,Aguatero
+Charadriiformes,Scolopacidae,Actitis macularius,ACT-MAC,Playerito Manchado
+Charadriiformes,Scolopacidae,Bartramia longicauda,BAR-LON,Batitú
+Charadriiformes,Scolopacidae,Calidris bairdii,CAL-BAI,Playerito Unicolor
+Charadriiformes,Scolopacidae,Calidris fuscicollis,CAL-FUS,Playerito Rabadilla Blanca
+Charadriiformes,Scolopacidae,Calidris melanotos,CAL-MEL,Playerito Pectoral
+Charadriiformes,Scolopacidae,Gallinago paraguaiae,GAL-PAR,Becasina de Bañado
+Charadriiformes,Scolopacidae,Phalaropus tricolor,PHA-TRI,Falaropo común
+Charadriiformes,Scolopacidae,Tringa flavipes,TRI-FLA,Pitotoy Chico
+Charadriiformes,Scolopacidae,Tringa melanoleuca,TRI-MEL,Pitotoy Grande
+Charadriiformes,Scolopacidae,Tringa solitaria,TRI-SOL,Pitotoy Solitario
+Charadriiformes,Scolopacidae,Tryngites subruficollis,TRY-SUB,Playerito Canela
+Ciconiiformes,Ciconiidae,Ciconia maguari,CIC-MAG,Cigüeña Americana
+Ciconiiformes,Ciconiidae,Mycteria americana,MYC-AME,Tuyuyú
+Columbiformes,Columbidae,Columba livia,COL-LIV,Paloma Doméstica
+Columbiformes,Columbidae,Columbina picui,COL-PIC,Torcacita Picuí
+Columbiformes,Columbidae,Columbina talpacoti,COL-TAL,Torcacita Colorada
+Columbiformes,Columbidae,Leptotila verreauxi,LEP-VER,Yerutí Gris
+Columbiformes,Columbidae,Patagioenas maculosa,PAT-MAC,Paloma Manchada
+Columbiformes,Columbidae,Patagioenas picazuro,PAT-PIC,Paloma Picazuró
+Columbiformes,Columbidae,Zenaida auriculata,ZEN-AUR,Torcaza
+Coraciiformes,Alcedinidae,Chloroceryle amazona,CHL-AMA,Martín Pescador Mediano
+Coraciiformes,Alcedinidae,Chloroceryle americana,CHL-AME,Martín Pescador Chico
+Coraciiformes,Alcedinidae,Megaceryle torquata,MEG-TOR,Martín Pescador Grande
+Cuculiformes,Cuculidae,Coccycua cinerea,COC-CIN,Cuclillo Chico
+Cuculiformes,Cuculidae,Coccyzus melacoryphus,COC-MEL,Cuclillo Canela
+Cuculiformes,Cuculidae,Guira guira,GUI-GUI,Pirincho
+Cuculiformes,Cuculidae,Tapera naevia,TAP-NAE,Crespín
+Falconiformes,Falconidae,Caracara plancus,CAR-PLA,Carancho
+Falconiformes,Falconidae,Falco femoralis,FAL-FEM,Halcón Plomizo
+Falconiformes,Falconidae,Falco peregrinus,FAL-PER,Halcón Peregrino
+Falconiformes,Falconidae,Falco sparverius,FAL-SPA,Halconcito Colorado
+Falconiformes,Falconidae,Milvago chimachima,MIL-CHI,Chimachima
+Falconiformes,Falconidae,Milvago chimango,MIL-CHI,Chimango
+Gruiformes,Aramidae,Aramus guarauna,ARA-GUA,Carau
+Gruiformes,Rallidae,Aramides cajanea,ARA-CAJ,Chiricote
+Gruiformes,Rallidae,Aramides ypecaha,ARA-YPE,Ipacaá
+Gruiformes,Rallidae,Fulica armillata,FUL-ARM,Gallareta Ligas Rojas
+Gruiformes,Rallidae,Fulica leucoptera,FUL-LEU,Gallareta Chica
+Gruiformes,Rallidae,Fulica rufifrons,FUL-RUF,Gallareta Escudete Rojo
+Gruiformes,Rallidae,Gallinula chloropus,GAL-CHL,Pollona Negra
+Gruiformes,Rallidae,Gallinula melanops,GAL-MEL,Pollona Pintada
+Gruiformes,Rallidae,Laterallus melanophaius,LAT-MEL,Burrito Canela
+Gruiformes,Rallidae,Pardirallus maculatus,PAR-MAC,Gallineta Overa
+Gruiformes,Rallidae,Pardirallus sanguinolentus,PAR-SAN,Gallineta Pico Pintado
+Gruiformes,Rallidae,Porphyrio martinica,POR-MAR,Pollona azul
+Passeriformes,Cardinalidae,Cyanoloxia brissonii,CYA-BRI,Reinamora Grande
+Passeriformes,Cardinalidae,Cyanoloxia glaucocaerulea,CYA-GLA,Reinamora chica
+Passeriformes,Cardinalidae,Piranga flava,PIR-FLA,Fueguero común
+Passeriformes,Cardinalidae,Saltator aurantiirostris,SAL-AUR,Pepitero de collar
+Passeriformes,Cardinalidae,Saltator coerulescens,SAL-COE,Pepitero gris
+Passeriformes,Cardinalidae,Saltator similis,SAL-SIM,Pepitero verdoso
+Passeriformes,Cotingidae,Pachyramphus polychopterus,PAC-POL,Anambé Negro
+Passeriformes,Cotingidae,Phytotoma rutila,PHY-RUT,Cortarramas
+Passeriformes,Cotingidae,Xenopsaris albinucha,XEN-ALB,Tijerilla
+Passeriformes,Emberizidae,Ammodramus humeralis,AMM-HUM,Cachilo Ceja Amarilla
+Passeriformes,Emberizidae,Zonotrichia capensis,ZON-CAP,Chingolo
+Passeriformes,Fringillidae,Leistes superciliaris,LEI-SUP,Pecho Colorado
+Passeriformes,Fringillidae,Spinus magellanicus,SPI-MAG,Cabecitanegra
+Passeriformes,Furnariidae,Anabacerthia striaticollis,ANA-STR,Espinero Pecho Manchado
+Passeriformes,Furnariidae,Anumbius annumbi,ANU-ANN,Leñatero
+Passeriformes,Furnariidae,Asthenes baeri,AST-BAE,Canastero Chaqueño
+Passeriformes,Furnariidae,Asthenes pyrrholeuca,AST-PYR,Canastero Coludo
+Passeriformes,Furnariidae,Certhiaxis cinnamomeus,CER-CIN,Curutié Colorado
+Passeriformes,Furnariidae,Coryphistera alaudina,COR-ALA,Crestudo
+Passeriformes,Furnariidae,Cranioleuca pyrrhophia,CRA-PYR,Curutié Blanco
+Passeriformes,Furnariidae,Drymornis bridgesii,DRY-BRI,Chinchero Grande
+Passeriformes,Furnariidae,Furnarius rufus,FUR-RUF,Hornero
+Passeriformes,Furnariidae,Lepidocolaptes angustirostris,LEP-ANG,Chinchero Chico
+Passeriformes,Furnariidae,Leptasthenura platensis,LEP-PLA,Coludito Copetón
+Passeriformes,Furnariidae,Limnoctites rectirostris,LIM-REC,Pajonalera Pico Recto
+Passeriformes,Furnariidae,Limnornis curvirostris,LIM-CUR,Pajonalera Pico Curvo
+Passeriformes,Furnariidae,Phacellodomus ruber,PHA-RUB,Espinero Grande
+Passeriformes,Furnariidae,Phacellodomus sibilatrix,PHA-SIB,Espinero Chico
+Passeriformes,Furnariidae,Phleocryptes melanops,PHL-MEL,Junquero
+Passeriformes,Furnariidae,Pseudoseisura lophotes,PSE-LOP,Cacholote Castaño
+Passeriformes,Furnariidae,Schoeniophylax phryganophilus,SCH-PHR,Chotoy
+Passeriformes,Furnariidae,Spartonoica maluroides,SPA-MAL,Espartillero Enano
+Passeriformes,Furnariidae,Synallaxis albescens,SYN-ALB,Pijuí Cola Parda
+Passeriformes,Furnariidae,Synallaxis frontalis,SYN-FRO,Pijuí Frente Gris
+Passeriformes,Furnariidae,Synallaxis spixi,SYN-SPI,Pijuí Plomizo
+Passeriformes,Furnariidae,Tarphonomus certhioides,TAR-CER,Bandurrita Chaqueña
+Passeriformes,Furnariidae,Xiphorhynchus fuscus,XIP-FUS,Chinchero Enano
+Passeriformes,Hirundinidae,Alopochelidon fucata,ALO-FUC,Golondrina Cabeza Rojiza
+Passeriformes,Hirundinidae,Hirundo rustica,HIR-RUS,Golondrina Tijerita
+Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,NOT-CYA,Golondrina Barranquera
+Passeriformes,Hirundinidae,Petrochelidon pyrrhonota,PET-PYR,Golondrina Rabadilla Canela
+Passeriformes,Hirundinidae,Progne chalybea,PRO-CHA,Golondrina Doméstica
+Passeriformes,Hirundinidae,Progne elegans,PRO-ELE,Golondrina Negra
+Passeriformes,Hirundinidae,Progne tapera,PRO-TAP,Golondrina Parda
+Passeriformes,Hirundinidae,Riparia riparia,RIP-RIP,Golondrina Zapadora
+Passeriformes,Hirundinidae,Stelgidopteryx ruficollis,STE-RUF,Golondrina Ribereña
+Passeriformes,Hirundinidae,Tachycineta leucopyga,TAC-LEU,Golondrina Patagónica
+Passeriformes,Hirundinidae,Tachycineta leucorrhoa,TAC-LEU,Golondrina Ceja Blanca
+Passeriformes,Icteridae,Agelaioides badius,AGE-BAD,Tordo Músico
+Passeriformes,Icteridae,Agelasticus cyanopus,AGE-CYA,Varillero Negro
+Passeriformes,Icteridae,Agelasticus thilius,AGE-THI,Varillero Ala Amarilla
+Passeriformes,Icteridae,Amblyramphus holosericeus,AMB-HOL,Federal
+Passeriformes,Icteridae,Cacicus solitarius,CAC-SOL,Boyero Negro
+Passeriformes,Icteridae,Chrysomus ruficapillus,CHR-RUF,Varillero Congo
+Passeriformes,Icteridae,Gnorimopsar chopi,GNO-CHO,Chopí
+Passeriformes,Icteridae,Icterus pyrrhopterus,ICT-PYR,Boyerito
+Passeriformes,Icteridae,Molothrus bonariensis,MOL-BON,Tordo Renegrido
+Passeriformes,Icteridae,Molothrus rufoaxillaris,MOL-RUF,Tordo Pico Corto
+Passeriformes,Icteridae,Pseudoleistes virescens,PSE-VIR,Pecho Amarillo
+Passeriformes,Mimidae,Mimus patagonicus,MIM-PAT,Calandria Mora
+Passeriformes,Mimidae,Mimus saturninus,MIM-SAT,Calandria Grande
+Passeriformes,Mimidae,Mimus triurus,MIM-TRI,Calandria Real
+Passeriformes,Motacillidae,Anthus correndera,ANT-COR,Cachirla Común
+Passeriformes,Motacillidae,Anthus furcatus,ANT-FUR,Cachirla Uña Corta
+Passeriformes,Motacillidae,Anthus hellmayri,ANT-HEL,Cachirla Pálida
+Passeriformes,Motacillidae,Anthus lutescens,ANT-LUT,Cachirla Chica
+Passeriformes,Parulidae,Basileuterus culicivorus,BAS-CUL,Arañero coronado chico
+Passeriformes,Parulidae,Geothlypis aequinoctialis,GEO-AEQ,Arañero cara negra
+Passeriformes,Parulidae,Setophaga pitiayumi,SET-PIT,Pitiayumí
+Passeriformes,Passeridae,Passer domesticus,PAS-DOM,Gorrión
+Passeriformes,Polioptilidae,Polioptila dumicola,POL-DUM,Tacuarita Azul
+Passeriformes,Sturnidae,Sturnus vulgaris,STU-VUL,Estornino Pinto
+Passeriformes,Thamnophilidae,Taraba major,TAR-MAJ,Chororó
+Passeriformes,Thamnophilidae,Thamnophilus caerulescens,THA-CAE,Choca Corona Negruzca
+Passeriformes,Thamnophilidae,Thamnophilus ruficapillus,THA-RUF,Choca Corona Rojiza
+Passeriformes,Thraupidae,Coryphospingus cucullatus,COR-CUC,Brasita de fuego
+Passeriformes,Thraupidae,Donacospiza albifrons,DON-ALB,Cachilo canela
+Passeriformes,Thraupidae,Embernagra platensis,EMB-PLA,Verdón
+Passeriformes,Thraupidae,Microspingus cabanisi,MIC-CAB,Monterita Litoraleña
+Passeriformes,Thraupidae,Microspingus melanoleucus,MIC-MEL,Monterita Cabeza Negra
+Passeriformes,Thraupidae,Paroaria capitata,PAR-CAP,Cardenilla
+Passeriformes,Thraupidae,Paroaria coronata,PAR-COR,Cardenal Copete Rojo
+Passeriformes,Thraupidae,Pipraeidea bonariensis,PIP-BON,Naranjero
+Passeriformes,Thraupidae,Pipraeidea melanonota,PIP-MEL,Saíra de antifaz
+Passeriformes,Thraupidae,Saltatricula multicolor,SAL-MUL,Pepitero chico
+Passeriformes,Thraupidae,Sicalis flaveola,SIC-FLA,Jilguero dorado
+Passeriformes,Thraupidae,Sicalis luteola,SIC-LUT,Misto
+Passeriformes,Thraupidae,Sporophila caerulescens,SPO-CAE,Corbatita
+Passeriformes,Thraupidae,Sporophila cinnamomea,SPO-CIN,Capuchino Corona Gris
+Passeriformes,Thraupidae,Sporophila collaris,SPO-COL,Corbatita dominó
+Passeriformes,Thraupidae,Sporophila hypoxantha,SPO-HYP,Capuchino canela
+Passeriformes,Thraupidae,Sporophila nigrorufa,SPO-NIG,Siete Vestidos Pampeano
+Passeriformes,Thraupidae,Sporophila palustris,SPO-PAL,Capuchino Pecho Blanco
+Passeriformes,Thraupidae,Sporophila ruficollis,SPO-RUF,Capuchino garganta café
+Passeriformes,Thraupidae,Stephanophorus diadematus,STE-DIA,Frutero azul
+Passeriformes,Thraupidae,Thraupis sayaca,THR-SAY,Celestino
+Passeriformes,Thraupidae,Volatinia jacarina,VOL-JAC,Volatinero
+Passeriformes,Troglodytidae,Troglodytes aedon,TRO-AED,Ratona
+Passeriformes,Turdidae,Turdus amaurochalinus,TUR-AMA,Zorzal Chalchalero
+Passeriformes,Turdidae,Turdus rufiventris,TUR-RUF,Zorzal Colorado
+Passeriformes,Tyrannidae,Camptostoma obsoletum,CAM-OBS,Piojito Silbón
+Passeriformes,Tyrannidae,Elaenia albiceps,ELA-ALB,Fiofío Silbón
+Passeriformes,Tyrannidae,Elaenia parvirostris,ELA-PAR,Fiofío Pico Corto
+Passeriformes,Tyrannidae,Empidonomus aurantioatrocristatus,EMP-AUR,Tuquito gris
+Passeriformes,Tyrannidae,Euscarthmus meloryphus,EUS-MEL,Barullero
+Passeriformes,Tyrannidae,Fluvicola pica,FLU-PIC,Viudita Lomo Negro
+Passeriformes,Tyrannidae,Hemitriccus margaritaceiventer,HEM-MAR,Mosqueta Ojo Dorado
+Passeriformes,Tyrannidae,Hymenops perspicillatus,HYM-PER,Pico de Plata
+Passeriformes,Tyrannidae,Knipolegus cyanirostris,KNI-CYA,Viudita Pico Celeste
+Passeriformes,Tyrannidae,Lathrotriccus euleri,LAT-EUL,Mosqueta Parda
+Passeriformes,Tyrannidae,Lessonia rufa,LES-RUF,Sobrepuesto Austral
+Passeriformes,Tyrannidae,Machetornis rixosa,MAC-RIX,Picabuey
+Passeriformes,Tyrannidae,Muscisaxicola maclovianus,MUS-MAC,Dormilona Cara Negra
+Passeriformes,Tyrannidae,Myiarchus ferox,MYI-FER,Burlisto Pico Negro
+Passeriformes,Tyrannidae,Myiarchus swainsoni,MYI-SWA,Burlisto Pico Canela
+Passeriformes,Tyrannidae,Myiodynastes maculatus,MYI-MAC,Benteveo rayado
+Passeriformes,Tyrannidae,Myiophobus fasciatus,MYI-FAS,Mosqueta Estriada
+Passeriformes,Tyrannidae,Neoxolmis rufiventris,NEO-RUF,Monjita Chocolate
+Passeriformes,Tyrannidae,Phylloscartes ventralis,PHY-VEN,Mosqueta Carasucia
+Passeriformes,Tyrannidae,Pitangus sulphuratus,PIT-SUL,Benteveo
+Passeriformes,Tyrannidae,Polystictus pectoralis,POL-PEC,Tachurí Canela
+Passeriformes,Tyrannidae,Pseudocolopteryx flaviventris,PSE-FLA,Doradito Pampeano
+Passeriformes,Tyrannidae,Pseudocolopteryx sclateri,PSE-SCL,Doradito Copetón
+Passeriformes,Tyrannidae,Pyrocephalus rubinus,PYR-RUB,Churrinche
+Passeriformes,Tyrannidae,Satrapa icterophrys,SAT-ICT,Suirirí Amarillo
+Passeriformes,Tyrannidae,Serpophaga griseicapilla,SER-GRI,Piojito Trinador
+Passeriformes,Tyrannidae,Serpophaga nigricans,SER-NIG,Piojito Gris
+Passeriformes,Tyrannidae,Serpophaga subcristata,SER-SUB,Piojito Tiquitiqui
+Passeriformes,Tyrannidae,Sublegatus modestus,SUB-MOD,Suirirí Pico Corto
+Passeriformes,Tyrannidae,Suiriri suiriri,SUI-SUI,Suirirí Gris
+Passeriformes,Tyrannidae,Tachuris rubrigastra,TAC-RUB,Tachurí Sietecolores
+Passeriformes,Tyrannidae,Tyrannus melancholicus,TYR-MEL,Suirirí Real
+Passeriformes,Tyrannidae,Tyrannus savana,TYR-SAV,Tijereta
+Passeriformes,Tyrannidae,Xolmis cinereus,XOL-CIN,Monjita Gris
+Passeriformes,Tyrannidae,Xolmis coronatus,XOL-COR,Monjita Coronada
+Passeriformes,Tyrannidae,Xolmis dominicanus,XOL-DOM,Monjita Dominica
+Passeriformes,Tyrannidae,Xolmis irupero,XOL-IRU,Monjita Blanca
+Passeriformes,Vireonidae,Cyclarhis gujanensis,CYC-GUJ,Juan Chiviro
+Passeriformes,Vireonidae,Vireo chivi,VIR-CHI,Chiví-chiví
+Pelecaniformes,Ardeidae,Ardea alba,ARD-ALB,Garza Blanca
+Pelecaniformes,Ardeidae,Ardea cocoi,ARD-COC,Garza Mora
+Pelecaniformes,Ardeidae,Bubulcus ibis,BUB-IBI,Garcita Bueyera
+Pelecaniformes,Ardeidae,Butorides striata,BUT-STR,Garcita Azulada
+Pelecaniformes,Ardeidae,Egretta thula,EGR-THU,Garcita Blanca
+Pelecaniformes,Ardeidae,Ixobrychus involucris,IXO-INV,Mirasol Estriado
+Pelecaniformes,Ardeidae,Nycticorax nycticorax,NYC-NYC,Garza Bruja
+Pelecaniformes,Ardeidae,Syrigma sibilatrix,SYR-SIB,Chiflón
+Pelecaniformes,Ardeidae,Tigrisoma lineatum,TIG-LIN,Hocó Colorado
+Pelecaniformes,Threskiornithidae,Phimosus infuscatus,PHI-INF,Cuervillo Cara Pelada
+Pelecaniformes,Threskiornithidae,Platalea ajaja,PLA-AJA,Espátula Rosada
+Pelecaniformes,Threskiornithidae,Plegadis chihi,PLE-CHI,Cuervillo de Cañada
+Pelecaniformes,Threskiornithidae,Theristicus caerulescens,THE-CAE,Bandurria Mora
+Phoenicopteriformes,Phoenicopteridae,Phoenicopterus chilensis,PHO-CHI,Flamenco Austral
+Piciformes,Picidae,Campephilus leucopogon,CAM-LEU,Carpintero Lomo Blanco
+Piciformes,Picidae,Colaptes campestris,COL-CAM,Carpintero Barba Negra
+Piciformes,Picidae,Colaptes melanochloros,COL-MEL,Carpintero Real Verde
+Piciformes,Picidae,Melanerpes cactorum,MEL-CAC,Carpintero del Cardón
+Piciformes,Picidae,Melanerpes candidus,MEL-CAN,Carpintero Blanco
+Piciformes,Picidae,Picumnus cirratus,PIC-CIR,Carpinterito Barrado
+Podicipediformes,Podicipedidae,Podiceps major,POD-MAJ,Macá Grande
+Podicipediformes,Podicipedidae,Podilymbus podiceps,POD-POD,Macá Pico Grueso
+Podicipediformes,Podicipedidae,Rollandia rolland,ROL-ROL,Macá Cara Blanca
+Podicipediformes,Podicipedidae,Tachybaptus dominicus,TAC-DOM,Macá Gris
+Psittaciformes,Psittacidae,Myiopsitta monachus,MYI-MON,Cotorra
+Rheiformes,Rheidae,Rhea americana,RHE-AME,Ñandú
+Strigiformes,Strigidae,Asio flammeus,ASI-FLA,Lechuzón Campestre
+Strigiformes,Strigidae,Athene cunicularia,ATH-CUN,Lechucita Vizcachera
+Strigiformes,Strigidae,Bubo virginianus,BUB-VIR,Ñacurutú
+Strigiformes,Strigidae,Glaucidium brasilianum,GLA-BRA,Caburé Chico
+Strigiformes,Strigidae,Megascops choliba,MEG-CHO,Alilicucú Común
+Strigiformes,Tytonidae,Tyto alba,TYT-ALB,Lechuza de Campanario
+Suliformes,Anhingidae,Anhinga anhinga,ANH-ANH,Aninga
+Suliformes,Phalacrocoracidae,Phalacrocorax brasilianus,PHA-BRA,Biguá
+Tinamiformes,Tinamidae,Nothura maculosa,NOT-MAC,Inambú Campestre
+Tinamiformes,Tinamidae,Rhynchotus rufescens,RHY-RUF,Colorada
