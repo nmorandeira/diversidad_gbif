@@ -68,6 +68,7 @@ summary(aves_ceibas$abundancia) #resumen de la nueva columna
 hornero <- subset(aves_ceibas, species=="Furnarius rufus")
 View(hornero)
 summary(hornero) #podemos ver cuántos registros hay y también qué cantidad de individuos se contaron.
+hist(hornero$abundancia, breaks=100) #un ejemplo de histograma de abundancias de horneros en cada registro
 
 ### Vamos a guardar un listado de especies ###########
 colnames(aves_ceibas)
@@ -101,6 +102,7 @@ colnames(listado_spp) <- c("Orden", "Familia", "Especie", "Codigo", "Nregistros"
 #cargo capas de nombres comunes
 nombres_comunes <- read_csv("data/nombres_comunes.csv")
 
+library(tidyverse)
 listado_spp <- left_join(listado_spp, nombres_comunes, by= "Especie")
 
 #guardo el listado a disco
