@@ -28,7 +28,7 @@
 
 
 ### CARGA DE DATOS ######
-## Cargar las tablas de especies (filas) x períodos (columnas). Se puede hacer desde el RStudio (Environment > Import Dataset) o como sigue
+## Cargar las tablas de especies (filas) x períodos (columnas). Se puede hacer desde el RStudio (Environment > Import Dataset) o usando "read_csv" como muestro abajo
 
 # Si cargan desde RStudio, llamen a los datos "aves_ceibas_estacion" o "aves_ceibas_lustro"
 
@@ -36,7 +36,7 @@
 library(readr)
 ## OPCION A #### 
 # Si decidimos trabajar comparando las comunidades de aves entre estaciones
-aves_ceibas_estacion <- read_csv("output/aves_estacion.csv")
+aves_ceibas_estacion <- read_csv("data/aves_estacion.csv") #cambiar la ubicacion del archivo de acuerdo a tu computadora
 
 head(aves_ceibas_estacion) #"head" nos muestra las primeras filas, para tener una idea de la tabla de datos. 
 colnames(aves_ceibas_estacion) #nos muestra las columnas. Nos vamos a quedar sólo con los códigos y las comunidades a analizar
@@ -52,7 +52,7 @@ View(tabla_ceibas)
 
 ## OPCION B ####
 # O bien, si decidimos trabajar comparando las comundidades de aves entre lustros (pueden dejarlo para después y repetir el análisis)
-aves_ceibas_lustro <- read_csv("output/aves_lustro.csv")
+aves_ceibas_lustro <- read_csv("data/aves_lustro.csv") #cambiar la ubicacion del archivo de acuerdo a tu computadora
 head(aves_ceibas_lustro) #"head" nos muestra las primeras filas, para tener una idea de la tabla de datos. 
 colnames(aves_ceibas_lustro) #nos muestra las columnas. Nos vamos a quedar sólo con los códigos y las comunidades a analizar
 tabla_ceibas <- aves_ceibas_lustro[,5:7]  #Significa: [filas, columnas] que me quedo. Por ejemplo: [2,3] significa fila 2 y columna 3; [,1] significa todas las filas y la columna 1; [1,] significa la fila 1 y todas las columnas. En este caso le pedimos: todas las filas y las columnas 5 a 7: [,5:7]
