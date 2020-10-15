@@ -12,7 +12,8 @@
 # Cita del dataset: GBIF.org (03 October 2020) GBIF Occurrence Download https://doi.org/10.15468/dl.474hgg
 
 
-#### SEGUNDA PARTE - Análisis de datos de similitud de comunidades y estimaciones de diversidad ##########
+#### Análisis de datos de similitud de comunidades y estimaciones de diversidad ##########
+## INTRODUCCION ######
 
 # Tenemos que definir qué períodos nos interesa comparar. Por ejemplo: 
   # a) comparar entre distintas estaciones del año.
@@ -22,10 +23,13 @@
   
   # Les sugiero que elijan qué análisis hacer en cada grupo: (a) o (b).
 
-## Los datos fueron pre-procesados con el script "diversidad_gbif_prepro.R" 
-## Este script parte de los datos ya procesados y preparados en una tabla de especies (filas) x períodos (columnas). Si no están cargados, hay que cargarlos. Se puede hacer desde el RStudio (Environment > Import Dataset) o como sigue
+## Los datos fueron pre-procesados con el script "diversidad_gbif_prepro.R" para así obtener las tablas aves_lustro.csv y aves_estacion.csv. Es un script un poco más complejo, pero está comentado y lo pueden bajar si desean: https://github.com/nmorandeira/diversidad_gbif/blob/main/diversidad_gbif_prepro.R
 
-# Si cargan desde RStudio, llamen "aves_ceibas_estacion" o "aves_ceibas_lustro" a los datos 
+
+### CARGA DE DATOS ######
+## Cargar las tablas de especies (filas) x períodos (columnas). Se puede hacer desde el RStudio (Environment > Import Dataset) o como sigue
+
+# Si cargan desde RStudio, llamen a los datos "aves_ceibas_estacion" o "aves_ceibas_lustro"
 
 
 library(readr)
@@ -144,3 +148,5 @@ tabla_ceibas_cze <- tabla_ceibas_pi[,c(1,3)]
 indice_czekanowski <- sum(apply(tabla_ceibas_cze, 1, min)) #sumatoria del mínimo entre las columnas seleccionados
 disimilitud_czekanowski <- 1- indice_czekanowski
 disimilitud_czekanowski
+
+#Si quieren hacer algún gráfico me pueden consultar :)
