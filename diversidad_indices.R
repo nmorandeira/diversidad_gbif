@@ -23,7 +23,8 @@
   
   # Les sugiero que elijan qué análisis hacer en cada grupo: (a) o (b).
 
-## Los datos fueron pre-procesados con el script "diversidad_gbif_prepro.R" para así obtener las tablas aves_lustro.csv y aves_estacion.csv. Es un script un poco más complejo, pero está comentado y lo pueden bajar si desean: https://github.com/nmorandeira/diversidad_gbif/blob/main/diversidad_gbif_prepro.R
+## Los datos fueron pre-procesados con el script "diversidad_gbif_prepro.R" para así obtener las tablas aves_lustro.csv y aves_estacion.csv. Es un script un poco más complejo, pero está comentado para que se entienda lo que hicimos! Lo pueden bajar si desean: https://github.com/nmorandeira/diversidad_gbif/blob/main/diversidad_gbif_prepro.R 
+## De todos modos sugiero primero hacer primero este script de índices de diversidad y similitud
 
 
 ### CARGA DE DATOS ######
