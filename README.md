@@ -8,6 +8,9 @@ Análisis de diversidad a partir de una base de datos de GBIF (registros georref
 
 _Septiembre-Octubre de 2020. Parte del código fue elaborado para la asignatura Ecología, ECyT-3iA, Universidad Nacional de San Martín_
 
+
+**Cita sugerida**: Morandeira, N. y Larrandart, S. 2020. Análisis de diversidad a partir de una base de datos de GBIF. Trabajo Práctico de la asignatura Ecología, de la carrera Ingeniería Ambiental (3iA), Universidad Nacional de San Martín. DOI: 10.5281/zenodo.4123034
+
 Este repositorio consta de:
 
 * Un script para el pre-procesamiento y análisis exploratorio de datos descargados de gbif. Como productos, se obtienen tablas de especies por período (por lustro o por estación del año). La variable registrada es el número (suma del número de invividuos máximo por día).
